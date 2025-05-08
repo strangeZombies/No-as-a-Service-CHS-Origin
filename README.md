@@ -15,7 +15,7 @@
 
 **基础 URL**  
 ```
-https://naas.isalman.dev/no
+[https://kioihyma.com/api/no/](https://kioihyma.com/api/no/)
 ```
 
 **方法：** `GET`  

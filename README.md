@@ -1,95 +1,82 @@
-# ❌ No-as-a-Service
+# ❌ 替你勇敢说不 No-as-a-Service-CHS-Origin
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hotheadhacker/no-as-a-service/main/assets/imgs/naas-with-no-logo-bunny.png" width="800" alt="No-as-a-Service Banner" width="70%"/>
+  <img src="https://raw.githubusercontent.com/hotheadhacker/no-as-a-service/main/assets/imgs/naas-with-no-logo-bunny.png" width="800" alt="No-as-a-Service 横幅" width="70%"/>
 </p>
 
+有没有需要一种优雅的方式说“不”？  
+这个小型 API 返回随机、通用、创意十足，有时还非常搞笑的拒绝理由——完美适用于任何场景：个人生活、职场、学生生活、开发者日常，或只是因为好玩。
 
-Ever needed a graceful way to say “no”?  
-This tiny API returns random, generic, creative, and sometimes hilarious rejection reasons — perfectly suited for any scenario: personal, professional, student life, dev life, or just because.
-
-Built for humans, excuses, and humor.
-
-<!-- GitAds Sponsorship Badge -->
-<p align="center">
-  <a href="https://docs.gitads.dev/">
-    <img src="https://gitads.dev/assets/images/sponsor/camos/camo-3.png" alt="Sponsored by GitAds" />
-  </a>
-</p>
-
-<p align="center">
-  This project is <strong>sponsored by <a href="https://docs.gitads.dev/docs/getting-started/publishers">GitAds</a></strong>.<br>
-  You can get your GitHub repository sponsored too — <a href="https://docs.gitads.dev/docs/getting-started/publishers">create your account now</a>.
-</p>
+为人类、借口和幽默而生。
 
 ---
 
-## 🚀 API Usage
+## 🚀 API 使用
 
-**Base URL**
+**基础 URL**  
 ```
 https://naas.isalman.dev/no
 ```
 
-**Method:** `GET`  
-**Rate Limit:** `120 requests per minute per IP`
+**方法：** `GET`  
+**速率限制：** `每 IP 每分钟 120 次请求`
 
-### 🔄 Example Request
+### 🔄 示例请求
 ```http
 GET /no
 ```
 
-### ✅ Example Response
+### ✅ 示例响应
 ```json
 {
-  "reason": "This feels like something Future Me would yell at Present Me for agreeing to."
+  "reason": "这感觉像是未来的我会因为现在的我同意而大喊大叫的事。"
 }
 ```
 
-Use it in apps, bots, landing pages, Slack integrations, rejection letters, or wherever you need a polite (or witty) no.
+可用于应用、机器人、登陆页面、Slack 集成、拒绝信，或任何需要礼貌（或机智）说“不”的地方。
 
 ---
 
-## 🛠️ Self-Hosting
+## 🛠️ 自托管
 
-Want to run it yourself? It’s lightweight and simple.
+想自己运行？它轻量且简单。
 
-### 1. Clone this repository
+### 1. 克隆仓库
 ```bash
 git clone https://github.com/hotheadhacker/no-as-a-service.git
 cd no-as-a-service
 ```
 
-### 2. Install dependencies
+### 2. 安装依赖
 ```bash
 npm install
 ```
 
-### 3. Start the server
+### 3. 启动服务器
 ```bash
 npm start
 ```
 
-The API will be live at:
+API 将运行在：
 ```
 http://localhost:3000/no
 ```
 
-You can also change the port using an environment variable:
+你也可以通过环境变量更改端口：
 ```bash
 PORT=5000 npm start
 ```
 
 ---
 
-## 📁 Project Structure
+## 📁 项目结构
 
 ```
 no-as-service/
 ├── index.js            # Express API
-├── reasons.json        # 1000+ universal rejection reasons
+├── reasons.json        # 1000+ 通用拒绝理由
 ├── package.json
-├── .devcontainer.json  # VS Code / Github devcontainer setup
+├── .devcontainer.json  # VS Code / Github 开发容器设置
 └── README.md
 ```
 
@@ -97,13 +84,13 @@ no-as-service/
 
 ## 📦 package.json
 
-For reference, here’s the package config:
+供参考，以下是 package 配置：
 
 ```json
 {
   "name": "no-as-service",
   "version": "1.0.0",
-  "description": "A lightweight API that returns random rejection or no reasons.",
+  "description": "一个返回随机拒绝或‘不’理由的轻量级 API。",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -119,38 +106,47 @@ For reference, here’s the package config:
 
 ---
 
-## ⚓ Devcontainer
+## ⚓ 开发容器
 
-If you open this repo in Github Codespaces, it will automatically use `.devcontainer.json` to set up your environment.  If you open it in VSCode, it will ask you if you want to reopen it in a container.
+如果你在 Github Codespaces 中打开此仓库，`.devcontainer.json` 将自动设置你的环境。如果在 VSCode 中打开，它会询问是否在容器中重新打开。
 
 ---
-## Projects Using No-as-a-Service
 
-Here are some projects and websites that creatively integrate [no-as-a-service](https://naas.isalman.dev/no) to deliver humorous or programmatic "no" responses:
+## 使用 No-as-a-Service 的项目
+
+以下是一些创意整合 [no-as-a-service](https://naas.isalman.dev/no) 以提供幽默或程序化“拒绝”响应的项目和网站：
 
 1. **[no-as-a-service-rust](https://github.com/ZAZPRO/no-as-a-service-rust)**  
-   Rust implementation of this project.
+   本项目的 Rust 实现。
 
 2. **[CSG Admins](https://csg-admins.de)**  
-   A system administration and gaming service hub using no-as-a-service to provide playful negative responses across some admin panels and commands.
+   一个系统管理和游戏服务中枢，使用 no-as-a-service 在某些管理面板和命令中提供幽默的否定响应。
 
-3. **[FunnyAnswers - /no endpoint](https://www.funnyanswers.lol/no)**  
-   A humor-focused API playground that includes a mirror or wrapper for no-as-a-service, perfect for developers exploring fun HTTP-based responses.
+3. **[FunnyAnswers - /no 端点](https://www.funnyanswers.lol/no)**  
+   一个专注于幽默的 API 游乐场，包含 no-as-a-service 的镜像或包装器，非常适合探索有趣 HTTP 响应的开发者。
 
-4. **[Your Project Here?](https://github.com/YOUR_REPO)**  
-   If you're using no-as-a-service in your project, open a pull request to be featured here!
-
----
-
-> Want to use no-as-a-service in your own project? Check out the usage section in this README and start returning **"no"** like a pro.
----
-
-## 👤 Author
-
-Created with creative stubbornness by [hotheadhacker](https://github.com/hotheadhacker)
+4. **[你的项目在此？](quare://github.com/YOUR_REPO)**  
+   如果你在项目中使用 no-as-a-service，提交一个拉取请求以在此展示！
 
 ---
 
-## 📄 License
+> 想在你的项目中使用 no-as-a-service？查看本 README 的使用部分，像专业人士一样返回“拒绝”。
 
-MIT — do whatever, just don’t say yes when you should say no.
+---
+
+## 👤 作者
+
+由 [strangezombies](https://github.com/strangezombies) 使用ai二次翻译。
+
+由 [hotheadhacker](https://github.com/hotheadhacker) 带着创意固执创建。
+
+---
+
+## 📄 许可证
+
+MIT —— 随便做什么，就是别在该说“不”时说“是”。
+
+---
+
+**说明**：  
+这是一个中文分支，翻译自英文 README，保留了原文的技术细节、结构和幽默语气，确保中文用户能够清晰理解 No-as-a-Service 的功能、使用方法和项目背景。所有链接和代码示例均保持原样，以便用户直接访问或使用。

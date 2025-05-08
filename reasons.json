@@ -1,1057 +1,1001 @@
-[
-  "In a different season of life, I might say yes\u2014but not right now.",
-  "While I appreciate it, pursuing this isn't something I can commit to.",
-  "Every time I think about it, I hear a tiny \u2018nope\u2019 in the wind.",
-  "My future self wrote me a note: \u2018Please don\u2019t do this again.\u2019",
-  "It sounds interesting, but I\u2019m not the best person for this.",
-  "I appreciate the thought, but it\u2019s not the right fit for me right now.",
-  "I'd love to say yes, but I just made a commitment to do less questionable things this week.",
-  "While I appreciate it, considering this isn't something I can commit to.",
-  "While I appreciate it, volunteering for this isn't something I can commit to.",
-  "I'm trying to be more intentional with what I agree to, and this doesn\u2019t quite fit.",
-  "I want to be honest with you\u2014I don\u2019t feel comfortable committing to this.",
-  "I have to trust my gut\u2014and it's gently suggesting a no.",
-  "Saying no to this helps me say yes to something that matters more to me.",
-  "If I said yes, I'd be lying to both of us\u2014and my therapist said to stop doing that.",
-  "I\u2019m going to respectfully decline. It doesn\u2019t align with where I\u2019m heading.",
-  "While I appreciate it, attempting this isn't something I can commit to.",
-  "This opportunity deserves more than I can give it right now.",
-  "I don\u2019t hate the idea\u2014but I also don\u2019t want to do it.",
-  "I\u2019m not in a position to commit to this right now.",
-  "While I appreciate it, exploring this isn't something I can commit to.",
-  "I\u2019ve made peace with declining things that don\u2019t energize me.",
-  "Even my calendar laughed when I tried to squeeze this in.",
-  "I\u2019ve decided to hold off on new engagements for the time being.",
-  "This feels like something Future Me would yell at Present Me for agreeing to.",
-  "I\u2019ve tried doing too much before, and this feels like d\u00e9j\u00e0 vu.",
-  "You\u2019ve put great energy into this, and I hope you understand my decision to step back.",
-  "While I appreciate it, joining this isn't something I can commit to.",
-  "This is a great idea\u2014for someone else to take on.",
-  "The version of me who says yes to this doesn\u2019t exist anymore.",
-  "Even my coffee said, \u2018Not today.\u2019",
-  "My inner peace committee vetoed this idea unanimously.",
-  "I know how much this matters, but I can\u2019t give it the attention it deserves.",
-  "I had a vision of doing this\u2014and then promptly fell asleep in it.",
-  "Mentally, I\u2019ve already left the room where this would happen.",
-  "While I appreciate it, accepting this isn't something I can commit to.",
-  "This doesn\u2019t align with my values or current focus.",
-  "Please know that my decision isn\u2019t a reflection of you\u2014just my own boundaries.",
-  "I respect the opportunity, but I know my limits\u2014and this would stretch them too far.",
-  "If I took this on, I\u2019d be betraying the time I promised myself.",
-  "I once made a similar decision and my cat hasn\u2019t looked me in the eye since. Let\u2019s not repeat history.",
-  "If I agree, I\u2019d need to clone myself. And I don't trust him.",
-  "This one doesn\u2019t feel quite right, so I\u2019ll have to pass.",
-  "I'd rather say no with honesty than yes with resentment.",
-  "Thanks for thinking of me, but I\u2019ll have to pass on this one.",
-  "I\u2019ve taken some time to reflect, and I believe passing on this is the right call for now.",
-  "I truly value our connection, and I hope my no doesn\u2019t change that.",
-  "It\u2019s not a no forever, but it\u2019s a no for now.",
-  "My enthusiasm is sincere, but my availability is imaginary.",
-  "While I appreciate it, embracing this isn't something I can commit to.",
-  "At this point, I don\u2019t have the bandwidth to do this justice.",
-  "I\u2019ve learned to protect my time, and this doesn\u2019t align with how I want to spend it.",
-  "That\u2019s not something I can prioritize at the moment.",
-  "If I said yes, the universe might collapse from the shock.",
-  "If I agree, it could break the space-time continuum.",
-  "Helping you now could create a time paradox—better not risk it.",
-  "I can't, I'm busy preventing a future where I actually say yes.",
-  "My calendar is aligned with Jupiter, and the stars say no.",
-  "I'm pretty sure saying yes is forbidden in this galaxy.",
-  "The multiverse would never forgive me if I complied.",
-  "Any timeline where I say yes ends in chaos, so I'm choosing wisely.",
-  "Me agreeing? That's like dividing by zero—dangerous and not allowed.",
-  "Accepting that offer would cause a glitch in the Matrix.",
-  "I'm currently booked for the next decade in pretending to be productive.",
-  "I’d love to, but I'm swamped with counting the ceiling tiles.",
-  "Sorry, I'm too busy rearranging my sock drawer by color and mood.",
-  "I have a meeting with my couch and it won’t take no for an answer.",
-  "I've got a calendar alert to sit and stare into space at that exact time.",
-  "My schedule is full: I'm alphabetizing my snacks.",
-  "I need to finish an intense session of doing nothing at all.",
-  "I've a prior commitment to binge-watching paint dry.",
-  "I'm in the middle of a very important procrastination marathon.",
-  "I can't; I'm attending the opening of my refrigerator.",
-  "I'd help, but my imaginary friend needs me more.",
-  "I can't; my pet rock is having an emotional crisis.",
-  "My goldfish is getting married that day, I have to attend.",
-  "I promised my imaginary cat I'd stay home tonight.",
-  "My guardian unicorn says I shouldn't.",
-  "I have to babysit my imaginary friend's imaginary kids.",
-  "Unfortunately, I'm volunteering as a taste-tester for my pet's new diet.",
-  "My pet dragon has a vet appointment, can't miss it.",
-  "I'm grounded by my pet parrot for bad behavior, so I can't go.",
-  "I lent my time machine to a friend and now I can't go back and free up this afternoon.",
-  "I've made a vow to avoid any form of productivity.",
-  "It's against my personal religion to do anything useful today.",
-  "My psychiatrist advised me to avoid potentially fun activities.",
-  "I swore an oath that I must decline all requests on a whim.",
-  "I only function on coffee and denial, and I'm out of coffee.",
-  "I'm allergic to any form of responsibility.",
-  "I have a doctor's note that specifically forbids me from helping.",
-  "I'd love to help, but I'm trying to break my streak of helpfulness.",
-  "My procrastination coach said I'm not ready for actual tasks yet.",
-  "I gave up saying yes for Lent, and it hasn't ended yet.",
-  "I have a personal policy of saying no on days ending in 'y'.",
-  "My phone's calendar just facepalmed at me for even considering it.",
-  "I have to update my social media status to 'busy not doing that'.",
-  "I'm currently trending towards 'no'.",
-  "I can't—I promised Netflix I'd stay in and watch movies.",
-  "My Wi-Fi of motivation has lost connection.",
-  "I'm waiting for my phone to recharge—can't do anything until it's at 100%.",
-  "My bio on Twitter says 'Often says no', gotta stay on brand.",
-  "I'm busy searching for motivation on Google; no results found.",
-  "I'm stuck in an internet rabbit hole and I can't find the exit.",
-  "I can't come; I'm on a Zoom call with my couch.",
-  "I would love to, but I'd rather not.",
-  "My answer is a no—freshly baked, just for you.",
-  "I've considered it thoroughly, and I'm going with a hard no.",
-  "Not even if there were free donuts.",
-  "This is the part where I say 'no' and we both move on.",
-  "Let me check my schedule... oh look, it's a permanent no.",
-  "I'm flattered you asked, but I'll pass with flying colors.",
-  "I've reached my quota of saying yes for the year.",
-  "I'm too cool to say yes to that.",
-  "As the saying goes, 'Nope, nope, nope.'",
-  "You don't want me to say yes—trust me, it's for the greater good.",
-  "The last time I said yes, it rained for 40 days. Not doing that again.",
-  "I promised my future self I'd say no to this one.",
-  "If I agreed, I'd have to explain it to my therapist.",
-  "My past experiences with yes have been traumatic.",
-  "Saying yes is on my list of things to quit.",
-  "I would, but then I'd have to admit I was wrong about hating everything.",
-  "The universe gave me a sign to say no (it was a neon sign, very clear).",
-  "I once said yes. It didn't end well. There were llamas involved.",
-  "My gut feeling and I unanimously voted no.",
-  "That sounds like an amazing opportunity... for someone else.",
-  "What a great idea! I'm sad I can't be part of it. Well, not that sad.",
-  "I envy the people who will say yes to you, truly.",
-  "I absolutely adore the concept, but I'll have to sit this one out.",
-  "Brilliant plan! Unfortunately, I'm in witness protection from good ideas.",
-  "That would be a dream come true. Too bad I'm awake and saying no.",
-  "You've painted such a lovely picture, I'll admire it from afar.",
-  "Such a generous offer! I'm going to generously decline.",
-  "I'm sure it'll be a resounding success, but I'll be a distant admirer.",
-  "Sounds thrilling! I'm already tired just thinking about it.",
-  "I've already changed into my pajamas, so it's a no.",
-  "My couch has declared a no-travel zone and I'm abiding.",
-  "I can't be bothered to change out of my comfortable blanket burrito.",
-  "I'm saving my energy for an epic nap.",
-  "I'm too lazy to even come up with a good excuse, so just no.",
-  "Moving from this spot requires 24-hour notice.",
-  "I'm conserving energy today for no particular reason.",
-  "I would, but that sounds like effort and I'm allergic.",
-  "I'm currently experiencing technical difficulties with moving.",
-  "I'm practicing for a marathon of not moving.",
-  "I have to wash my hair that decade.",
-  "I've got to defrost the iceberg in my freezer.",
-  "Sorry, I need to iron my underwear that night.",
-  "I must attend to my garden of plastic flowers.",
-  "My fish needs a walk and it takes priority.",
-  "I have to rotate the tires on my office chair.",
-  "I'm marathoning a series of doing household chores in my head.",
-  "The dishes threatened to revolt if I leave them again.",
-  "My fridge and I have couples therapy at that time.",
-  "I need to sit this one out while I sort my sock zoo.",
-  "In an alternate universe, I totally did that. Just not in this one.",
-  "Maybe in my next life I'll consider it, but current me says no.",
-  "In a parallel dimension I'm already on it—too bad we're here.",
-  "I consulted my alternate self; they also declined.",
-  "If I clone myself, I'll send the clone. Until then, no.",
-  "I checked with future me, and they rolled their eyes, so I'll pass.",
-  "I'm stuck in a time loop of saying no.",
-  "In an alternate timeline I said yes, and it caused a zombie apocalypse.",
-  "My evil twin might be interested; too bad they're busy too.",
-  "Somewhere in a parallel universe I’m more helpful. This isn’t that universe.",
-  "I would, but that sounds dangerously close to work.",
-  "My desire to do that is currently in a coma.",
-  "I'm sure I'd mess it up spectacularly, so better not.",
-  "I could participate, but then who would hold up the wall over here?",
-  "That request is above my pay grade of zero.",
-  "The spirit is willing, but the schedule says nope.",
-  "I'd rather not tempt fate by trying something new today.",
-  "If I join, I'd just bring down the average.",
-  "Me doing that? That's the plot twist no one wants.",
-  "I'm practicing social distancing from that idea.",
-  "I have a condition that prevents me from saying yes (it's called sanity).",
-  "My doctor said I need more vitamin 'No'.",
-  "I just came down with a severe case of Not-Today-itis.",
-  "Mentally, I'm already on vacation.",
-  "I'm on bedrest until further notice, doctor's orders (my doctor is Dr. Seuss).",
-  "I've got chronic commitment-phobia.",
-  "I'm coming down with something; it's called laziness.",
-  "I have an appointment with a pillow and a blanket.",
-  "My therapist said I should avoid things that make me miserable; I assume this qualifies.",
-  "I'm having a 'me' time emergency.",
-  "I have to save the world from boredom by staying home.",
-  "I'm in the middle of negotiating world peace (in a video game).",
-  "My superhero alter ego needs a day off, and so do I.",
-  "I'm on a secret mission to avoid anything you just asked.",
-  "I'd love to, but then who will save the world while I'm gone?",
-  "I'm busy orchestrating a global nap time.",
-  "I have to keep the couch from floating away, it's an important job.",
-  "The fate of the potato chip I'm about to eat is in my hands, I can't abandon it.",
-  "I have been chosen as the guardian of my living room today.",
-  "I'm fighting an invisible dragon at home. It's taking longer than expected.",
-  "You really don't want me on this – my specialty is ruining things.",
-  "I'm like a black cat of projects; it's safer if I stay away.",
-  "Trust me, I'm doing you a favor by saying no.",
-  "My participation comes with a warning label, so I'll spare you.",
-  "I'd join, but I'm only here to provide witty refusals.",
-  "I'm actually terrible at that, unless you need an example of how not to do it.",
-  "You deserve someone who will say yes without giving three excuses first.",
-  "My track record suggests I should sit this one out.",
-  "I'm the wrong person for the job; I'm the right person for saying no.",
-  "If you need someone to sabotage it, I'd be perfect. Otherwise, I'll pass.",
-  "The fortune cookie said 'No' just last night.",
-  "The prophecy foretold I would decline this.",
-  "My tarot cards all just collectively sighed.",
-  "I checked my crystal ball, and it said 'nah'.",
-  "The spirit world recommends I stay home.",
-  "I threw some runes and they spelled out N-O.",
-  "My magic 8-ball said 'Outlook not so good'.",
-  "I was reading tea leaves and they said to avoid this at all costs.",
-  "A psychic warned me about requests like these.",
-  "I'm in a committed relationship with my bed at that time.",
-  "Sleep and I have a standing date, can't break it.",
-  "I would, but I'm trying this new thing called sleeping.",
-  "I already took a melatonin. It's lights out for me.",
-  "I'm saving all my energy to blink and breathe.",
-  "I have an early morning of sleeping in.",
-  "If it's not a nap, I'm not interested.",
-  "I can't; my pillow needs me.",
-  "Count me out, I'm counting sheep instead.",
-  "I'll be in the middle of my power nap (which might last all day).",
-  "Disclaimer: Any agreement on my part is void where fun is prohibited.",
-  "Fine print: My 'yes' comes with 0% enthusiasm.",
-  "I checked the terms and conditions of my life, and it says 'nope'.",
-  "By agreeing, I might violate several personal bylaws.",
-  "According to the unwritten rules I just wrote, I must decline.",
-  "My user agreement strictly prohibits me from doing that.",
-  "I would violate the Geneva Convention of Introverts if I agreed.",
-  "I ran this request through my internal compliance, and it failed.",
-  "My lawyer (who is imaginary) advises against it.",
-  "The contract I signed with my bed doesn't allow me to do anything else.",
-  "My plate is full, and I already ate the portion of doing favors.",
-  "I'm overbooked, overwhelmed, and overjoyed to say no.",
-  "My schedule spontaneously combusted from too many tasks.",
-  "I'm currently managing too many crises—adding another might cause a meltdown.",
-  "I have too much on my plate, and I'm on a no-carb diet (no extra tasks).",
-  "I'm drowning in tasks, and I didn't bring a snorkel.",
-  "I would, but I'm already in over my head with other regrets.",
-  "My to-do list and I aren't on speaking terms, it's so long.",
-  "I'm way too popular with tasks I haven't done yet.",
-  "The hamster running my life wheel is on strike due to overwork.",
-  "'No' is just 'on' spelled backwards, and I'm off.",
-  "Spell check suggests I say N-O.",
-  "I wrote you a poem: Roses are red, violets are blue, my answer is no, no can do.",
-  "The only thing I'm inclined to say is a decline.",
-  "Let me put it in a language you understand: No.",
-  "I'm fluent in 5 languages, and in all of them, the answer is no.",
-  "'Yes' and I aren't on speaking terms at the moment.",
-  "I would respond with a fancy Latin phrase for no, but plain 'no' will suffice.",
-  "As an acronym, my answer is N.O.",
-  "If you rearrange the letters of 'yes', you get 'sye'—which is exactly how much sense it would make for me to do this.",
-  "I'm booked until the heat death of the universe.",
-  "My calendar is filled up through the next century, sorry.",
-  "I have a scheduling conflict with the rest of my life.",
-  "I'm not free until the sun rises in the west and sets in the east.",
-  "Check back with me in a million years, I might have time then.",
-  "I'm on hold with life right now; expect a long wait.",
-  "My availability is currently in a state of quantum uncertainty, leaning towards no.",
-  "I've pre-booked my next thousand refusals; you're just one of them.",
-  "My schedule is tighter than my jeans after the holidays.",
-  "I looked at my calendar, and it laughed at me for even asking.",
-  "Thank you for thinking of me, but I'm going to decline hilariously.",
-  "I appreciate the offer, but I'll have to decline, mainly out of laziness.",
-  "Much obliged that you asked, but no can do, buckaroo.",
-  "I'm honored you thought of me, but I must respectfully and comically decline.",
-  "Please accept my sincerest apologies as I laugh and say no.",
-  "Regretfully, I'll have to pass, but I'll do it with a smile.",
-  "It's not you, it's me. I'm just allergic to doing things.",
-  "Respectfully, I'm going to ghost this opportunity.",
-  "I'm truly touched you asked. Truly. Still no, though.",
-  "With all due respect, no way, José.",
-  "I forgot how to say yes.",
-  "I have short-term memory loss when it comes to responsibilities.",
-  "I'd agree, but I just forgot what you asked, so... no.",
-  "My brain auto-deletes requests like that.",
-  "I've got selective amnesia for favors.",
-  "I was going to help, but I forgot to care.",
-  "I'm sorry, I suffer from CRS (Can't Remember Saying yes).",
-  "I can't remember the last time I said yes, and I won't start now.",
-  "What was that? Did you ask something? No? Great.",
-  "I put your request in my mental shredder.",
-  "I can't; I'm busy teaching my goldfish to play fetch for charity.",
-  "I'm devoting that time slot to contemplating the meaning of life. It's a charity case really.",
-  "I've donated all my free time to non-doing causes.",
-  "I'm working on a petition to ban requests like this.",
-  "My calendar is filled with volunteer work at the Society of Professional Naysayers.",
-  "I'm training for a charity event: a marathon of saying no.",
-  "I'm raising awareness for the endangered word 'no' by using it frequently.",
-  "I auctioned off my time slot for that day to the highest bidder of nothing.",
-  "I'm doing a silent retreat away from responsibilities.",
-  "I gave all my free time to someone else; I'm running a deficit.",
-  "I'm on a strict no-social-interaction diet.",
-  "I have to cancel; I've exceeded my people-ing quota for the week.",
-  "I'm introverting so hard right now, I can't stop to do that.",
-  "My social battery is at 0%, and my charger is missing.",
-  "I'm away on an introvert adventure (indoors, alone).",
-  "I can't come out; I've recently taken up hermit life.",
-  "Socializing is off the table, literally, I flipped the table.",
-  "I'm allergic to crowds, and even one person counts sometimes.",
-  "I'm practicing social distancing... from everyone.",
-  "Public me is out of office; please contact me never.",
-  "I accidentally glued myself to the couch.",
-  "My legs have filed a complaint about excessive walking.",
-  "My get-up-and-go got up and went without me.",
-  "I'm having an out-of-body experience and I'm not back yet.",
-  "My energy and I are currently in a long-distance relationship.",
-  "I woke up with a serious case of gravity today; can't get up.",
-  "I have an acute case of Couch Magnetism.",
-  "My limbs have gone on strike until further notice.",
-  "I'm feeling as active as a sloth on vacation.",
-  "I'm under house arrest by my own laziness.",
-  "I'd rather bathe in week-old soup than do that.",
-  "I prefer to juggle chainsaws blindfolded—seems safer than saying yes.",
-  "I would climb Mount Everest barefoot before I'd agree to that.",
-  "I'd rather be the sole target in a paintball match than participate.",
-  "Honestly, chewing glass sounds more fun than saying yes to this.",
-  "I'd rather do my own dental surgery with no anesthesia.",
-  "Saying yes? I'd sooner challenge a kangaroo to a boxing match.",
-  "I'd rather walk on Lego bricks for an hour straight.",
-  "I prefer the thrill of not doing it, thanks.",
-  "I'd accept, but I have a strict policy of not walking into obvious traps.",
-  "I would, but my bank account said I can't afford the gas to get there.",
-  "Unless there's a cash prize for me, I'll have to decline.",
-  "I only work on commission, and this request doesn't pay in pizza.",
-  "If you pay me in gold bars, I'll reconsider. Otherwise, no.",
-  "My accountant advised me that saying yes doesn't balance my books.",
-  "I'm waiting for a rich benefactor to fund my yeses.",
-  "I can't fit that into my budget of time and energy.",
-  "I'm in a bit of a financial bind: low on funds and on yeses.",
-  "Unless I get stock options for this, I'm out.",
-  "I require a down payment just to think about saying yes.",
-  "I'm waiting for a sign from the universe... oh, there it is: it says no.",
-  "I need to conserve my remaining brain cell.",
-  "My existential dread and I have plans.",
-  "I'm on strike until further notice, and I'm the union leader.",
-  "I've got a hot date with a pizza and a TV show.",
-  "I'm currently observing National No Day, it's a personal holiday.",
-  "I have a policy to not leap into volcanoes, and this feels similarly dangerous.",
-  "Can't come, I've made other plans with my bed and pillow.",
-  "I must decline, for science!",
-  "I'm trying to see how long I can go without doing anything productive.",
-  "My mom said I have to stay home and, um, alphabetize the pantry.",
-  "My family booked me for a game of hide-and-seek and I'm the missing piece.",
-  "My kids grounded me for trying to have a life.",
-  "I can't; my ancestors' spirits would be displeased if I did.",
-  "My dog will only let me out of the house if it's for walks, not work.",
-  "My spouse already made dinner plans with me and Netflix.",
-  "It's family night and by family, I mean me and my snacks.",
-  "I have to attend a family tradition of doing nothing tonight.",
-  "My cat is giving me the 'don't you dare go out' look.",
-  "My goldfish family reunion is happening in my fish tank.",
-  "NO is just YES suffering from oppositional defiant disorder.",
-  "N-O: two letters that, when combined, describe my plans perfectly.",
-  "I'm going to turn that invitation into an inviti-NOPE.",
-  "'No' is my spirit animal.",
-  "I can't spell 'nope' without N-O.",
-  "They say double negatives make a positive, but my single negative stands firm.",
-  "I'm consonantly refusing and vowel-ing out of this one.",
-  "Just in case you missed it: N as in No, O as in Oh-no-not-today.",
-  "My motto is 'Just say no', and I'm very loyal to my motto.",
-  "I signed up for a course on saying no, and I'm just practicing my homework.",
-  "I prefer to watch the grass grow at that time, sorry.",
-  "Actually, I was planning to count sand grains, which sounds more fun.",
-  "I've been looking forward to reorganizing my button collection instead.",
-  "I scheduled some quality time with my ceiling fan.",
-  "I have a thrilling date with doing absolutely nothing.",
-  "I'm engaged in a passionate affair with free time, and I can't cheat on it.",
-  "I have front row seats to my couch and I intend to use them.",
-  "There's a rerun of a show I've never seen that I just can't miss.",
-  "I already promised to spend that time twiddling my thumbs.",
-  "I have to decline; I wouldn't want to outshine everyone with my presence.",
-  "My greatness is just too much for that event to handle.",
-  "I'd say yes, but then it wouldn't be fair to the others when I excel effortlessly.",
-  "I can't make it; the paparazzi might swarm your event if I do.",
-  "I'm doing you a favor by not coming and stealing the spotlight.",
-  "I would attend, but I'm kind of a big deal in my own mirror.",
-  "I'm too cool for that (and by too cool, I mean too lazy).",
-  "Allow me to gracefully decline, so you can have fun without my overwhelming awesomeness.",
-  "I'll have to decline; I'm too busy being fabulous elsewhere.",
-  "I must humbly decline because my perfection is exhausting.",
-  "I have to return the One Ring to Mordor that day.",
-  "Sorry, I'm scheduled to fight Darth Vader then.",
-  "I need to sit by the phone in case Hogwarts calls.",
-  "I would but I've already volunteered as tribute elsewhere.",
-  "My Bat-Signal just lit up, gotta go save Gotham instead.",
-  "I can't—my flux capacitor is on the fritz and I can't make it in time.",
-  "That night is my scheduled trip back to the future.",
-  "Zombies may attack if I leave the house, I saw it in a documentary (okay, it was a zombie movie).",
-  "I'm busy negotiating with some minions; world domination can't wait.",
-  "I have to consult Doctor Strange about attending (he foresaw that I don't).",
-  "My boss told me to only say yes to salary raises, so no to everything else.",
-  "I've used up all my sick days, so I'm calling in well and staying home.",
-  "My teacher said I need to focus on not overcommitting.",
-  "I have a work thing... it's called avoiding work.",
-  "My calendar at work has a big red 'NOPE' on that date.",
-  "I can't, I have an important meeting to stare at a spreadsheet and contemplate life.",
-  "I'm taking a personal day to avoid persons.",
-  "Got a conference call with myself, and it's very time-consuming.",
-  "My overtime got into a fight with my free time, and free time lost.",
-  "My PTO (Permission To Opt-out) is in effect.",
-  "If I go, it might trigger the apocalypse. Better not risk it.",
-  "I have to stay put to prevent the zombie outbreak from starting (long story).",
-  "I'd come, but Nostradamus predicted I'd say no.",
-  "It's one of the signs of the apocalypse if I say yes, let's avoid that.",
-  "My attendance is the last seal before the apocalypse, so hard pass.",
-  "I fear my yes would summon Cthulhu or something.",
-  "I'm avoiding causing a butterfly effect that ends the world.",
-  "Legend says if I ever agree, the world will end in a spectacular musical number.",
-  "I made a deal with a demon to never say yes, and I hate to break a contract.",
-  "The doomsday clock ticks faster every time I consider agreeing.",
-  "Yes, you may interpret my silence as a no.",
-  "I’m nodding yes in spirit, but physically I’m shaking my head no.",
-  "Sure...ly you can find someone else?",
-  "Yes is in my vocabulary, just not today.",
-  "On a scale of yes to no, I'm at a 'not in a million years'.",
-  "I meant to say yes, but all that came out was no.",
-  "Consider my 'yes' lost in the mail.",
-  "Y-E-S are letters you'll not hear from me today.",
-  "Picture me enthusiastically not doing that.",
-  "Imagining me helping? Now imagine the opposite. There you go.",
-  "I'm feeling unlucky, so I better not risk saying yes.",
-  "I rolled the dice and it came up 'no'.",
-  "I consulted Lady Luck; she told me to stay home.",
-  "My luck ran out just before you asked.",
-  "If I had a lucky penny for every time I said no, I'd be rich. Speaking of which, no.",
-  "I'd join but I accidentally walked under a ladder and broke a mirror. Not chancing it.",
-  "My fortune teller said 'not in your stars', I trust that.",
-  "I pulled a card from a deck; it said 'Do Not Pass Go, Do Not Say Yes'.",
-  "Fate decided to swipe left on this one.",
-  "The stars aligned... to form a big 'NO'.",
-  "I can't; the weather forecast said there's a 100% chance of me staying home.",
-  "It's raining 'no's and I'm soaking wet in them.",
-  "I only go out in perfect weather conditions, which this clearly isn't (for me).",
-  "I'm experiencing a heavy downpour of laziness.",
-  "The winds of fate blew and I got hit in the face with a 'no'.",
-  "There’s a storm brewing and it's named My Reluctance.",
-  "I suspect a sudden tornado of responsibilities will keep me inside.",
-  "I'm under the weather, specifically a cloud of nope.",
-  "The forecast for that day is me with a high chance of not showing up.",
-  "I’d hate to step out and melt; I'm made of sugar and sarcasm.",
-  "I could say yes, but that would be a lie.",
-  "My heart says yes, but my soul says 'are you kidding?'",
-  "I'm physically capable of doing it, just morally opposed (to effort).",
-  "I have an inner conflict: Part of me says 'no'. The other part also says 'no'.",
-  "I’ve reached an age where I just say no to things I hate. And I hate this.",
-  "My willpower to do that got stuck in traffic and won't make it.",
-  "I gave it some thought. The thought was 'no'.",
-  "In theory I could, but let's stick to reality where I won't.",
-  "I'm trying to be less of a people-pleaser, starting now.",
-  "I just looked in the mirror and practiced saying 'no' and it felt right.",
-  "I can't say yes before I've had my coffee. And I never plan to have coffee.",
-  "No caffeine, no can-do.",
-  "My coffee and I have a pact: no important decisions without it, and it’s not available.",
-  "I would say yes, but I haven't met my daily coffee quota to deal with the consequences.",
-  "I'm in a decaffeinated state of no.",
-  "My brain is only powered by caffeine, and we're experiencing a power outage.",
-  "No java, no java-do.",
-  "The coffee machine called in sick, so I'm incapable of agreeing to anything.",
-  "I promised myself I'd only decide things after coffee; too bad it's already no-o'clock.",
-  "My morning coffee and I decided this isn't worth the caffeine it would take.",
-  "I'm too busy plotting world domination to attend.",
-  "If I said yes, it might ruin my evil plan.",
-  "My secret lair needs tending to at that time.",
-  "I'm in the middle of a devious scheme and can't break away.",
-  "I can't help you; I'm a supervillain in training and this would mess up my cred.",
-  "I would join, but then I'd have to recruit you into my plans and you wouldn't like that.",
-  "I'm brainstorming how to take over the world, and I need full concentration.",
-  "My minions scheduled a revolt for that day, and I need to be present.",
-  "I must regretfully decline as I have many diabolical laughs to practice.",
-  "Evil never sleeps, and apparently neither do I, except I'm definitely not going out.",
-  "I'm trying to align my chakras by not stressing, so I'll say no.",
-  "To maintain balance in the Force, I must decline.",
-  "My yin and yang are telling me not to do it.",
-  "For the sake of cosmic balance, I can't agree.",
-  "I'm in the middle of a feng shui adjustment to my life that forbids new commitments.",
-  "I must refuse, or the delicate equilibrium of my laziness will be disrupted.",
-  "Saying yes would throw off the balance of my weekly yes-to-no ratio.",
-  "I need to keep my karma clear, and I sense a yes would muddy it.",
-  "I must achieve inner peace, which means not complicating my day with this.",
-  "I'm afraid if I enjoy myself, it will become a bad habit.",
-  "If I end up liking it, then I'll have to do it again, so no.",
-  "I'm scared of success, so I must decline anything that might work out.",
-  "I'm afraid I'll set the bar too high if I say yes and do a good job.",
-  "Fun? I'm not sure I remember what that is, better not risk it.",
-  "I'm allergic to fun—break out in sarcasm.",
-  "I avoid anything that might make me smile too much.",
-  "I'm trying to remain mysterious and saying yes would make me too accessible.",
-  "I like to keep my expectations low by not doing anything.",
-  "I'm avoiding fun until further notice.",
-  "Asking me to do that is like asking a fish to climb a tree.",
-  "Me doing that would be like a chicken trying to do algebra.",
-  "Saying yes would be as unusual as a cat becoming a vegan.",
-  "That idea and I go together like oil and water.",
-  "Me participating is like a square peg in a round hole—just not fitting.",
-  "My motivation and that task are like two magnets repelling each other.",
-  "It would be like expecting a sloth to win a 100m dash.",
-  "As compatible as ice cream and hot soup—best kept separate.",
-  "Me saying yes is about as likely as pigs piloting a spaceship.",
-  "That request is the peanut butter to my allergy.",
-  "I just realized it's a holiday: National Not Gonna Do It Day.",
-  "I'm observing a personal holiday called Nope-vember.",
-  "I can't; I've got Festivus grievances to air that day.",
-  "I'm booked that day celebrating the Festival of No.",
-  "I'm already committed to the Anti-Work Holiday.",
-  "I celebrate Opposite Day by doing the opposite of what you ask.",
-  "Sorry, it's my annual day of rest... like the Sabbath, but for laziness.",
-  "I only celebrate events that involve cake, so unless there's cake, no.",
-  "That date conflicts with my extended celebration of Chillmas.",
-  "It's my pet rock's birthday, which is basically a global holiday to me.",
-  "I want to say yes, but my common sense is yelling 'no' repeatedly.",
-  "My heart says maybe, but my brain threw a giant red flag.",
-  "My gut feeling started doing the Macarena when you asked (that's a no dance).",
-  "Every fiber of my being is currently doing the wave in honor of saying no.",
-  "The tiny responsible voice in my head and the loud lazy one both agree: no.",
-  "I asked my better judgment, and it laughed hysterically.",
-  "My brain highlighted that request and hit the delete key.",
-  "My conscience would haunt me if I said yes.",
-  "Even the angel on my shoulder is like, 'nah, dude'.",
-  "My inner voice is just screaming 'NOOOO' Darth Vader-style.",
-  "I'm not procrastinating; I'm proactively saying no in advance.",
-  "I'm delaying my decision until the end of time—spoiler: it's no.",
-  "Why do today what I can avoid indefinitely?",
-  "My planner just says 'Nope' on every page this week.",
-  "I'll put this request on my to-do list right after 'learn teleportation'.",
-  "I'm in the process of rescheduling my procrastination for later.",
-  "I'm waiting for the last minute, and it hasn't arrived for this.",
-  "I thought about doing it later, then realized later is fully booked as well.",
-  "I'm on a procrastination roll, can't stop now.",
-  "I'm deferring my yes until a year that doesn't exist.",
-  "I would help, but then you'd have two of us needing help.",
-  "I'm not sure you can afford the damage I'd do by trying.",
-  "My help comes with a money-back guarantee, but you don't want it.",
-  "I'm the last person who should do that—literally, I'm last in line.",
-  "I tried doing something similar once; let's just say the fire department got involved.",
-  "If I do it, you'll spend more time fixing my mistakes.",
-  "My competence is on vacation right now.",
-  "I excel at procrastinating, not at actually doing things.",
-  "I'd volunteer, but the incompetence fee I charge is quite high.",
-  "I would assist, but then I'd have to legally disclaim any results.",
-  "It doesn't really spark joy in me, so I'll pass.",
-  "That idea doesn't pass the vibe check for me.",
-  "I'm not feeling a strong gravitational pull towards doing that.",
-  "My interest level is somewhere between zero and negative.",
-  "If I had any less interest, I'd be in a coma.",
-  "My curiosity just left the room when I heard that idea.",
-  "I'm sure it's fascinating, but my attention span thinks otherwise.",
-  "I'm saving my enthusiasm for something duller.",
-  "I fell asleep halfway through considering it.",
-  "I tried to get excited about it and pulled a muscle.",
-  "The government has me in a witness protection program against events like this.",
-  "My parole officer said I'm only allowed to work on being lazy.",
-  "The FBI called; they said me saying yes would be a national security risk.",
-  "I would come, but the judge of my life sentenced me to staying home.",
-  "My license to have fun was revoked.",
-  "I'd love to comply, but I'm under strict orders from myself not to.",
-  "The Queen of England ghost-told me to stay home (I only take royal commands).",
-  "The island I'm exiled on doesn't allow me to leave for events.",
-  "I'm contractually obligated to decline under the terms of my life choices.",
-  "The police told me I'm too interesting to attend normal gatherings.",
-  "I'm too old for this kind of commitment to things.",
-  "I think I'm at an age where I just say no to stuff like this.",
-  "At my age, my give-a-darn is busted.",
-  "I'm having a midlife crisis and saying yes isn't part of it.",
-  "I'm in my rebellious phase of only doing what I want, so no.",
-  "I'm channeling my inner grumpy old person and staying home.",
-  "I'm revisiting my teenage rebellion by saying no to everything.",
-  "In my day, we didn't have to do things we didn't want to (and I'm keeping it that way).",
-  "I'm practicing for my future as a crotchety old hermit.",
-  "I'm aging like fine wine, which means getting more stubborn about saying no.",
-  "My fairy godmother said I should stay home or I'll turn into a pumpkin.",
-  "Cinderella left one shoe here and I need to help find the other instead of going out.",
-  "I'm awaiting Prince Charming with pizza, so I can't go anywhere.",
-  "I can't come; the Big Bad Wolf is at my door (selling insurance, apparently).",
-  "I have to keep an eye on my gingerbread house, you know how it is.",
-  "The seven dwarves warned me about overextending myself.",
-  "I'm under a sleeping spell that only time (and not doing that) can break.",
-  "I lost my glass slipper and can't go out without proper footwear.",
-  "The frog I was supposed to kiss to become a prince gave me a rain check.",
-  "I'm stuck in a fairy tale, and agreeing to that isn't part of the plot.",
-  "I have to guard the refrigerator tonight; snacks are counting on me.",
-  "I've dedicated that time to an ice cream in need of company.",
-  "I'm carb loading for a marathon of not doing that.",
-  "I have a dinner date with a pizza and it would be jealous if I cancel.",
-  "I can't go out; my fridge just opened a bottle of wine and it'd be rude not to join.",
-  "I'm testing a theory that I can survive on chips alone, can't interrupt that.",
-  "My oven and I have plans to bake and eat an entire cake.",
-  "I promised to help my popcorn pop—it's a very involved process.",
-  "I would, but I just started cooking a five-course meal for one (me).",
-  "I'm learning to cook invisible meals; it's very time-consuming.",
-  "I have to be on standby in case Netflix needs me to watch something.",
-  "I'm on call as the family couch potato.",
-  "I'm the designated stay-at-home person this week.",
-  "I'm serving jury duty in the court of my own laziness.",
-  "I'm on a secret standby mission – can't disclose, just know I can't come.",
-  "I'm the emergency contact for my TV, so I must remain available.",
-  "I'm committed to staying home in case of a snack emergency.",
-  "I signed up to be a test subject for sleeping in, and I have a session then.",
-  "I'm part of a top-secret project called Project No.",
-  "I have a duty to uphold: keep my couch from feeling lonely.",
-  "My car decided to take a personal day off.",
-  "The public transportation in my living room is currently not operational.",
-  "I tried to leave, but my door wouldn't let me (we negotiated, and I stayed).",
-  "My GPS recommended I stay home to avoid bad decisions.",
-  "My carpool pony is sick. Yes, it's a pony, don't ask.",
-  "I would bike there, but my bike just laughed at me.",
-  "Uber doesn't deliver me to bad ideas.",
-  "I missed the train of thought that would make me go.",
-  "My broomstick is in the shop (you know how unreliable those are).",
-  "All roads lead to me staying home.",
-  "My insurance doesn't cover acts of me doing that.",
-  "I need to stay in a safe environment, and that event sounds risky (to my sanity).",
-  "Occupational Health and Safety flagged that activity as a hazard for me.",
-  "I'm waiting for my bubble wrap suit to arrive before I attempt such things.",
-  "That sounds dangerous for my well-being (mostly my mental well-being).",
-  "I only operate heavy machinery (like my couch) under supervision, so I can't go.",
-  "The last time I tried, I got a papercut on my soul.",
-  "For safety reasons, I'm required to stay away from that kind of excitement.",
-  "My guardian angel submitted a restraining order against that plan.",
-  "I'd prefer not to injure my will to live by saying yes.",
-  "I've transcended the need for activities like that.",
-  "I'm focusing on the journey of doing nothing, not the destination of that task.",
-  "My existential crisis and I decided against it.",
-  "In the grand tapestry of life, I'm the thread that sits this one out.",
-  "I've realized the meaning of life isn't doing that, so I'm good.",
-  "I'd rather search for the purpose of life than attend.",
-  "I think, therefore I am... not going to do that.",
-  "My current philosophy: if it requires pants, it's a no.",
-  "I'm practicing wu wei (doing nothing) as per Taoism, so I must decline.",
-  "To do or not to do? That is the question, and I've answered 'not to do.'",
-  "I trained for years under a master of saying no.",
-  "I got a black belt in No-jitsu.",
-  "I've been preparing my whole life to say no to this exact request.",
-  "I took a seminar on assertiveness and I'm itching to use what I learned: No.",
-  "My reflexes are honed to automatically decline invites.",
-  "I signed up for a 'Just Say No' workshop and I need to practice.",
-  "I'm part of a secret society where we only communicate via refusals.",
-  "My knee-jerk reaction is no, and my knee is feeling particularly jerky.",
-  "Saying no is my cardio.",
-  "I've been rehearsing my 'no' all week for just such an occasion.",
-  "No is my middle name. Well, not legally, but spiritually.",
-  "I come from a long line of expert decliners.",
-  "My DNA test came back: I'm 100% not doing that.",
-  "I'm genetically predisposed to say no.",
-  "I was born to say no—first word I ever said and never stopped.",
-  "I have a rare genetic disorder where I break out in refusals.",
-  "My spirit animal is a sloth, and it's telling me to stay put.",
-  "Astrologically, I'm a No-rgo or a Libra-thinks-not (one of those).",
-  "I took an oath as a kid to avoid anything resembling this.",
-  "My life coach advised me to eliminate stressors, starting with this.",
-  "My friends would have a heart attack if I suddenly said yes to things.",
-  "It would set a bad precedent if I started agreeing to reasonable requests.",
-  "If I start saying yes now, where will it end? World domination? Better not.",
-  "Saying yes once might give me a reputation for being helpful—can't have that.",
-  "I can't shock my system with responsibility like that; doctor’s orders.",
-  "Yes is such a small word for such a life-changing event, I'm not ready.",
-  "I'm afraid saying yes now will open floodgates of expectations.",
-  "If I said yes, people might expect me to do it again. Perish the thought.",
-  "Agreeing to this would confuse everyone who knows me as a professional avoider.",
-  "My brand is 'reliable disappointment', and I have to stay consistent.",
-  "Can I take a rain check and then lose it forever?",
-  "Let's pencil it in for the 12th of Never.",
-  "I'll join you on the 32nd of this month.",
-  "How about I catch the next one... in a parallel universe?",
-  "Maybe another time, like when pigs fly or hell freezes over, whichever comes first.",
-  "I'll attend in spirit. Specifically, the spirit of 'not there'.",
-  "Let's say I was there in our imaginations and call it a day.",
-  "I'm there in thought, just not in body or actual presence.",
-  "I'll let you know when I'm free. (Don't wait up.)",
-  "I'm on a mission in a video game and real life can't compete.",
-  "I would, but I'm one XP away from leveling up in doing nothing.",
-  "My guild in World of Warcraft needs me to farm 'No' potions.",
-  "I'm in the middle of a high-stakes Tetris game (yes, it's very serious).",
-  "I promised my online friends I'd keep the server alive by staying on.",
-  "I'm practicing my gaming skills; real life quests have to wait.",
-  "I have to defend my virtual village from pixelated invaders at that time.",
-  "My controller died, and so did my desire to go out.",
-  "I'm roleplaying as a recluse currently.",
-  "I'm busy achieving a new high score in introversion.",
-  "I have nothing to wear that would match the look of regret I'd have if I went.",
-  "All my clothes are allergic to outside activities.",
-  "My wardrobe and I have an agreement: it only sees the couch.",
-  "I would go, but I've already changed into my pajamas.",
-  "I can't find my motivation to get dressed up; I think I donated it.",
-  "The dress code for that sounds like 'effort', so I'm out.",
-  "I only attend events that allow pajamas as formal attire.",
-  "My fashion sense just texted: it said not to bother.",
-  "I'm stuck in my closet's Narnia and can't get out to attend.",
-  "Sorry, nothing in my closet screams 'let’s do this.' It all screams 'stay home'.",
-  "My dog ate my homework, and then demanded a sequel.",
-  "I was late because time decided to move faster than me today.",
-  "I missed work because my bedroom was conducting a hostage situation with me as the hostage.",
-  "I didn't show up because I prefer to be fashionably absent.",
-  "My alarm clock and I had a fight, and it won by not ringing.",
-  "I skipped class because I felt I owed it to myself to not learn bad things.",
-  "I couldn't join because I was busy not panicking about it.",
-  "I didn't attend the meeting because I was abducted by a daydream.",
-  "I bailed last minute because commitment issues run in my family.",
-  "I arrived on time in spirit, but my body took a detour.",
-  "Does a fish need a bicycle? That's how much I need to do this.",
-  "Do pigs fly? Only then would I do that.",
-  "Is the sky green? No? There's my answer.",
-  "Would it be wise for me to agree? That's a no from the Council of Me.",
-  "Is this the part where I say yes? No? Good, because I won't.",
-  "Do I look like someone who would do that? Correct, I don't.",
-  "Is it Opposite Day? Because otherwise my answer is no.",
-  "Did I just hear myself volunteer? No, so I'll keep it that way.",
-  "Is this a trick question? Because I'm answering like it's one: no.",
-  "Am I coming? I'll answer that when water isn't wet.",
-  "I'm going to deliver my answer in interpretive dance. *performs a NO*",
-  "If I could sing, I'd sing 'I say noooo' in opera for you.",
-  "Imagine me dramatically yelling 'I decline!' with a cape flourish.",
-  "I'll write a haiku for my answer: 'No absolutely / Indubitably no / Still no, sorry'.",
-  "Picture a skywriter writing 'NO' above your house—that's my answer.",
-  "Insert an orchestra sound: dun dun dun NO.",
-  "I'm throwing confetti and the confetti spells 'NO'.",
-  "I'm holding up a scorecard that says 0, as in 0% chance.",
-  "Improv theater time: I play a person who says no. End scene.",
-  "*Cue dramatic exit with a refusal monologue*.",
-  "I would, but I'm Batman. (That excuse works for anything, right?)",
-  "I was abducted by aliens yesterday and they gave me strict instructions to avoid that.",
-  "Aliens invited me to a galaxy party, and I already RSVP'd yes to them.",
-  "I'm communicating with extraterrestrials at that time, Earth events must wait.",
-  "I'm on a mission to Mars in my dreams, scheduling conflict with reality.",
-  "I can't come; I'm the aliens' tour guide for Earth and they're very demanding.",
-  "The mothership is coming to pick me up any minute now.",
-  "I'm learning an alien language; they don't have a word for yes and neither do I right now.",
-  "The aliens took my enthusiasm with them when they left.",
-  "I suspect I'm an alien, and we historically avoid those situations.",
-  "My planet needs me, so I must go (meaning I must stay at home).",
-  "I'm running for President of the Procrastination Club; my campaign is very time-consuming.",
-  "My will to participate mysteriously vanished just as you asked.",
-  "I played the lottery of caring and lost.",
-  "I have an irrational fear of accidentally enjoying obligations, so I avoid them.",
-  "As the meme goes, ain't nobody got time for that.",
-  "I'm too deep into my comfort zone to even see the exit.",
-  "I've reached my nope limit for the day.",
-  "My calendar just sent me a restraining order against new events.",
-  "I'm in a long-term relationship with canceling plans.",
-  "I'm experiencing JOMO (Joy Of Missing Out) for this event.",
-  "Channeling Opposite Nike: 'Just don't do it.'",
-  "I'd rather regret not doing it than regret doing it.",
-  "Applying my version of Murphy's Law: if it can be avoided, it will be.",
-  "My answer is like Schrödinger's cat: it's both yes and no until you realize it's just no.",
-  "YOLO, which is why I'm saying no – I value my one life too much.",
-  "My horoscope app just notified me: 'Today is a good day to say no.'",
-  "If saying no were an Olympic sport, I'd have a gold medal.",
-  "I wear my refusal as a badge of honor.",
-  "I'm going to have to decline faster than a cheetah on energy drinks.",
-  "I would say yes, but then I'd have to wake up from my daydream, and reality is far less pleasant.",
-  "Emergency! I just ran out of chocolate, and that's all I can handle right now.",
-  "Fate just slid into my DMs with a big fat 'no'.",
-  "My brain is at full capacity with useless information, there's no room for new tasks.",
-  "If I help you, I'd feel proud of myself, and I can't handle that much emotion.",
-  "I'll give you two choices: no, or nope. You can pick.",
-  "Let's make it multiple choice. I choose option (D) - Not gonna happen.",
-  "Look on the bright side: at least I'm consistent in saying no.",
-  "Consider this a 'no' served with a side of sarcasm.",
-  "I'm stuck in a black hole of procrastination and can't escape in time to do that.",
-  "I only say yes during solar eclipses, and there's none scheduled.",
-  "My retro soul can't handle modern tasks like that.",
-  "The word 'yes' gives me hives; I'm avoiding an allergic reaction.",
-  "I had a dream I said yes; I woke up in a cold sweat. Not doing that in reality.",
-  "In the time it took you to ask, I already decided no.",
-  "I'm sorry, I can't hear you over the sound of me not doing that.",
-  "I think our connection is bad. If you asked me to do something, the answer is static... which means no.",
-  "I misheard you, I thought you said 'do you want a taco'. Since you didn't, I'm not interested.",
-  "My phone auto-corrected your request to 'no', weird right?",
-  "I got your message, but unfortunately, my spam filter caught it under 'unwanted tasks'.",
-  "I believe you have the wrong number; the person who says yes isn't available.",
-  "I speak fluent sarcasm, so my interpretation of your question is a hard no.",
-  "Let me put you on hold... *never takes off hold*",
-  "I didn’t receive the memo that I was supposed to care.",
-  "I'm experiencing some technical difficulties in giving a darn.",
-  "The gods of procrastination demand I sacrifice this task by not doing it.",
-  "No is a complete sentence, and it's my final answer.",
-  "I fear agreeing could somehow trigger a zombie apocalypse, so I'm playing it safe.",
-  "My spidey-sense is tingling, and it's telling me not to do this.",
-  "The fabric of my being just isn't woven for that request.",
-  "They say 'follow your dreams' — and my dream is to not do that.",
-  "I'm just following the saying 'do what you love' — and I love saying no.",
-  "Not today, Satan. Actually, not any day.",
-  "My procrastination is doing a fantastic job; I wouldn't want to interrupt its flow.",
-  "No means 'New Opportunities'... for me to stay at home.",
-  "I made a bet that I could say no to everything for a week. I'm about to win.",
-  "I'm conducting a social experiment where I say no and observe what happens.",
-  "One of my pet peeves is doing stuff, so I simply don't.",
-  "Life is short, and I choose to waste it my way, not on that.",
-  "I've already met my quota of bad decisions for the month; saying yes would exceed it.",
-  "I'd love to participate, but I'm dead inside, so I just can't.",
-  "I have main character syndrome, and my story arc doesn't involve doing that.",
-  "Think of me as the final boss of saying no – undefeated.",
-  "Time is a non-renewable resource, and I choose not to spend any on that.",
-  "My free trial of doing things has expired, and I can't afford the subscription.",
-  "I'm on a strict 'no commitments' diet.",
-  "I'm doing intermittent fasting from responsibilities; today's a fasting day.",
-  "I only say yes on leap days, and today isn't one.",
-  "I can't risk unlocking my final form by being helpful.",
-  "I need to maintain my air of mystery by not showing up.",
-  "I can't let people find out I actually have free time.",
-  "I used all my willpower just getting out of bed this morning.",
-  "My life is a choose-your-own-adventure, and I flipped to the page where I say no.",
-  "By the power vested in me, I'm officially saying no.",
-  "Me, myself, and I had a meeting; we unanimously decided to decline.",
-  "I see your request and raise you a 'no'.",
-  "My enthusiasm is on backorder, and the delivery date keeps getting pushed.",
-  "I'm still recovering from the last time I said yes.",
-  "I used to do things like that, then I took an arrow to the knee.",
-  "It's not procrastination if I never planned on doing it.",
-  "I didn't choose the no life; the no life chose me.",
-  "Effort is currently not supported by my operating system.",
-  "My personal assistant (who's imaginary) already declined for me.",
-  "I prefer to remain an out-of-office message in human form.",
-  "I got lost on the way to 'yes' and ended up at 'no'.",
-  "If I say yes, then I'd actually have to do it—let's avoid that.",
-  "In the hero's journey of my life, I'm at the 'refusal of the call' stage.",
-  "I'm on a sabbatical from anything that sounds like work.",
-  "I made a New Year's resolution to say no more often. Starting now.",
-  "I performed a risk assessment and the results said 'no'.",
-  "I have a reputation to uphold—specifically, for saying no.",
-  "My intuition tells me this isn't the day I start being helpful.",
-  "The thought of doing that gave me a phantom backache. I'll pass.",
-  "If I had a nickel for every time I said no, I'd have a lot of nickels.",
-  "I'm attending a meeting of the Anti-Social Social Club (I'm the only member).",
-  "My brain's hard drive is full; there's no room for that task.",
-  "I would come, but I'm trying this new thing where I just don't.",
-  "I regret to inform you that I'll be vigorously not doing that.",
-  "I'm living vicariously through others who say yes, so I don't have to.",
-  "Mirror, mirror on the wall, should I do it? It said, 'Not at all.'",
-  "I can't say yes; it would jeopardize my standing in the Procrastinators Hall of Fame.",
-  "The probability of me doing that is approaching absolute zero.",
-  "My commitment to doing nothing would get jealous if I did something else.",
-  "My core competency is avoiding things, and I really need to focus on it.",
-  "I lack the necessary enthusiasm to even pretend to consider that.",
-  "I'm more of an 'observe from afar' person than a 'participate' person.",
-  "My brain is like a parrot that only knows one word: 'no'.",
-  "I'm writing a book called '101 Ways to Say No' – thanks for the material.",
-  "I'm a terrible liar, so I won't pretend I want to do that.",
-  "'No.' I'm giving that answer five stars.",
-  "'No' — from me, with love.",
-  "May the 'no' be with you.",
-  "Saying no is my superpower, and I'm using it to save my free time.",
-  "I felt burnout just hearing about it, so I'm preemptively declining.",
-  "I'm following the principle of least effort, which means I have to decline.",
-  "My life is like a sitcom about avoiding responsibility, and I can't break character.",
-  "I checked my availability and the results came back negative.",
-  "I'm going to pretend I didn't hear that request and carry on not doing it.",
-  "No can do—said in the nicest possible way.",
-  "I'm taking a mental health year (starting now), so I have to decline.",
-  "I decline to answer on the grounds that it may lead to doing actual work.",
-  "Let's be honest: we both know I'm not going to do it.",
-  "I'm going to have to nope out for personal reasons (personal reason: I just don't want to).",
-  "Not to brag, but I'm really good at not doing things.",
-  "Picture a Venn diagram of my schedule and your request—they don't overlap.",
-  "I have too many tabs open in my brain, and none of them is about that.",
-  "I'm booked solid with introspection (which is code for doing nothing).",
-  "I have a to-don't list, and this is right at the top.",
-  "I'm overbooked with underachieving.",
-  "This request is above my emotional pay grade.",
-  "My enthusiasm filed for bankruptcy, so I can't invest in that.",
-  "My calendar is full of blank spaces reserved for me-time.",
-  "I'm not ignoring you—I'm giving you a firm no.",
-  "If I take on one more thing, I'll officially become a cautionary tale.",
-  "Think of my refusal as a free lesson in handling rejection.",
-  "I admire your persistence in asking, but it's still a no.",
-  "I'm already living in the fast lane of doing nothing, so I can't slow down for that.",
-  "I can't make it; I'm extremely busy not being busy.",
-  "If I help you, I'll feel obligated to help others, and that's a slippery slope I'm avoiding.",
-  "The universe told me to 'treat myself', which I'm taking as a sign to stay home.",
-  "No one has ever accused me of being too helpful, and I don't plan to start now.",
-  "I have a fear of change, so I'm sticking with saying no.",
-  "My life is like a Jenga tower; one more thing might make it collapse.",
-  "I don't have the bandwidth (or any other width) for that.",
-  "Life is short, and my nap list is long.",
-  "Frankly, my dear, I don't give a darn (about doing it).",
-  "I tried seeing it from your perspective, but I still have to say no.",
-  "The timing isn't right—mainly because I just don't want to do it.",
-  "I'm in social stealth mode, so I must decline any invitations.",
-  "I have a chronic condition called 'idontwanna'.",
-  "I'm choosing couch enlightenment over worldly endeavors like that.",
-  "I'm off-duty indefinitely.",
-  "I'm in the middle of a very delicate 'doing nothing' ritual.",
-  "How about I promise to think about it? (I won't, but it sounds polite.)",
-  "I have a prior engagement: a staring contest with my wall.",
-  "I'll be busy exploring the great indoors.",
-  "The couch has accepted me as one of its own, and I can't betray its trust.",
-  "'No' is the new 'yes'—I'm just staying on trend.",
-  "I'm the hero my couch deserves, so I must stay with it.",
-  "The odds of me doing that are about the same as winning the lottery without buying a ticket.",
-  "That isn't on my bucket list; in fact, it's on my chuck-it list.",
-  "Please excuse me, my brain is currently out of order.",
-  "If there were an award for avoiding participation, I'd be the frontrunner.",
-  "I'm declining out of an abundance of apathy.",
-  "My destiny lies elsewhere—specifically, on my couch.",
-  "One does not simply get me to say yes.",
-  "It's a no from me, dawg.",
-  "If I say yes, I'd have to stop complaining about being busy, and I can't have that.",
-  "My energy is solar-powered, and it's nighttime.",
-  "I'll take one for the team by not joining this effort.",
-  "I put the 'pro' in procrastinate, and I won't ruin my streak.",
-  "Even my shadow decided to stay home, so I will too.",
-  "Luckily, I have procrastination insurance. It covers me for situations like this.",
-  "I'm not my circus, and those are not my monkeys—so it's not my act to perform.",
-  "I don't have enough mana for that quest.",
-  "The spirit is willing, but the flesh has already ordered takeout and settled in.",
-  "My will to do that is in the shop for repairs.",
-  "I could list 1000 reasons why I'm saying no, but I'll spare you.",
-  "I decline now, to avoid declining later.",
-  "I'm choosing myself over this commitment—so, no.",
-  "I'll spare you a half-hearted yes and give you an honest no.",
-  "If my life were a movie, this is the part I say no and roll credits.",
-  "I'm closing the door on that idea (literally and figuratively).",
-  "My intuition screamed 'no' so loudly, I had to answer accordingly.",
-  "'No' is my happy place.",
-  "The answer you seek is not available at this time (try again never).",
-  "To quote a famous response: 'No.'",
-  "I'm exercising my right to say no.",
-  "Think of this as a strategic veto.",
-  "I've never been so sure of anything as I am of saying no.",
-  "I woke up today and decided it's a 'no' day.",
-  "Today, I only speak in negatives.",
-  "I'm on a mission to maintain zero commitments.",
-  "Even my FitBit is telling me to stay put.",
-  "I'm choosing Netflix over stress, sorry.",
-  "No, in the most heartfelt, humorous way possible.",
-  "My calendar is on strike.",
-  "I choose me, so I'm saying no to you.",
-  "I'm doing everyone a favor by sticking to what I'm good at: saying no.",
-  "No is part of my self-care routine.",
-  "This is a guilt-free no.",
-  "If I helped, I'd be robbing you of the chance to do it yourself.",
-  "My schedule is in airplane mode.",
-  "I'm not ghosting you; I'm giving you a firm no.",
-  "I'm at peace with saying no.",
-  "Negative. Full stop.",
-  "I must protect my sanity at all costs—so no.",
-  "I didn't come this far to only come this far. In fact, I'm not coming at all.",
-  "It's a 'no' from the committee of me, myself, and I.",
-  "I must decline; I've reached my threshold for giving a darn.",
-  "Even if I wanted to, I couldn't. And I don't want to.",
-  "I'm going to seize the opportunity to do nothing instead.",
-  "My will to participate has left the building.",
-  "Your request has been denied due to a lack of interest on my part.",
-  "Let's just assume I said no and move on.",
-  "I'm currently out of order. Please try again never.",
-  "Alas, I must decline.",
-  "Declining this request sparks joy in me.",
-  "I could maybe be convinced, but I'd likely still say no in the end.",
-  "I have a philosophical objection to doing that.",
-  "If I were any more indifferent, I'd be a statue.",
-  "I need to prioritize my priorities, which currently are sleeping and snacking.",
-  "My schedule has a built-in 'nope' feature.",
-  "Saying yes would break the laws of physics in my personal universe.",
-  "At this point, saying yes would just feel wrong.",
-  "I promised myself I'd stick to being unhelpful this week.",
-  "My laziness is in full bloom, and I cannot uproot it for this.",
-  "I'm allergic to obligations and break out in excuses.",
-  "I'll sit this one out and let karma reward my honesty.",
-  "No can do—said in the nicest way possible (still no).",
-  "Think of my 'no' as an act of self-care.",
-  "I'm exercising my freedom of choice, and I choose no.",
-  "I'm hard at work doing nothing at all.",
-  "I would help, but that would contradict my life's mission statement.",
-  "No, but I appreciate your optimism.",
-  "I have a black belt in avoidance, and I'd hate to waste it (so, no).",
-  "I'm in the No Witness Protection Program (I say no and then hide).",
-  "I have to stay home and make sure gravity continues to work. (Someone has to.)",
-  "If I go, who will hold down the fort? (The fort being my couch).",
-  "I'm in the middle of a life audit, and unnecessary commitments didn't make the cut.",
-  "Declining this is actually part of my five-year plan.",
-  "Picture a Venn diagram of my schedule and your request—they don't overlap.",
-  "I have too many tabs open in my brain, and none of them is about that task.",
-  "I'm booked solid with introspection (which is code for doing nothing).",
-  "I have a to-don't list, and this is right at the top.",
-  "I'm overbooked with underachieving.",
-  "This request is above my emotional pay grade.",
-  "My enthusiasm filed for bankruptcy, so I can't invest in that.",
-  "My calendar is full of blank spaces reserved for me-time.",
-  "I'm not ignoring you—I'm giving you a very clear 'no'.",
-  "If I take on one more thing, I'll officially become a cautionary tale.",
-  "Think of my refusal as a free lesson in handling rejection.",
-  "I admire your persistence in asking, but it's still a no.",
-  "I'm already living in the fast lane of doing nothing, so I can't slow down for that.",
-  "I can't make it; I'm extremely busy not being busy.",
-  "If I help you, I'll feel obligated to help others, and that's a slippery slope I'm avoiding.",
-  "The universe told me to 'treat myself', which I'm taking as a sign to stay home.",
-  "No one has ever accused me of being too helpful, and I don't plan to start now.",
-  "I have a fear of change, so I'm sticking with saying no.",
-  "My life is like a Jenga tower; one more thing might make it collapse.",
-  "I don't have the bandwidth (or any other width) for that.",
-  "Life is short, and my nap list is long.",
-  "Frankly, my dear, I don't give a darn (about doing it).",
-  "I tried seeing it from your perspective, but I still have to say no.",
-  "The timing isn't right—mainly because I just don't want to do it.",
-  "I'm in social stealth mode, so I must decline any invitations.",
-  "I have a chronic condition called 'idontwanna'.",
-  "I'm off-duty indefinitely.",
-  "I'm in the middle of a very delicate 'doing nothing' ritual.",
-  "How about I promise to think about it? (I won't, but it sounds polite.)",
-  "I have a prior engagement: a staring contest with my wall.",
-  "I'll be busy exploring the great indoors.",
-  "The couch has accepted me as one of its own, and I can't betray its trust.",
-  "'No' is the new 'yes'—I'm just staying on trend.",
-  "I'm the hero my couch deserves, so I must stay with it.",
-  "The odds of me doing that are about the same as winning the lottery without buying a ticket.",
-  "That isn't on my bucket list; in fact, it's on my chuck-it list.",
-  "Please excuse me, my brain is currently out of order.",
-  "If there were an award for avoiding participation, I'd be the frontrunner.",
-  "I'm declining out of an abundance of apathy.",
-  "My destiny lies elsewhere—specifically, on my couch.",
-  "One does not simply get me to say yes.",
-  "It's a no from me, dawg.",
-  "If I say yes, I'd have to stop complaining about being busy, and I can't have that.",
-  "My energy is solar-powered, and it's nighttime.",
-  "I'll take one for the team by not joining this effort.",
-  "I put the 'pro' in procrastinate, and I won't ruin my streak.",
-  "Even my shadow decided to stay home, so I will too.",
-  "Luckily, I have procrastination insurance. It covers me for situations like this.",
-  "Not my circus, not my monkeys—so definitely not my act to perform.",
-  "I don't have enough mana for that quest.",
-  "The spirit is willing, but the flesh has already ordered takeout and settled in.",
-  "My will to do that is in the shop for repairs.",
-  "I could list 1000 reasons why I'm saying no, but I'll spare you.",
-  "I decline now, to avoid declining later.",
-  "I'm choosing myself over this commitment—so, no.",
-  "I'll spare you a half-hearted yes and give you an honest no.",
-  "If my life were a movie, this is the part I say no and roll credits.",
-  "I'm closing the door on that idea (literally and figuratively).",
-  "My intuition screamed 'no' so loudly, I had to answer accordingly.",
-  "'No' is my happy place.",
-  "The answer you seek is not available at this time (try again never).",
-  "To quote a famous response: 'No.'",
-  "I'm exercising my right to say no.",
-  "Think of this as a strategic veto.",
-  "I've never been so sure of anything as I am of saying no.",
-  "I woke up today and thought, 'let's not.'",
-  "Today, I only speak in negatives.",
-  "I'm on a mission to maintain zero commitments.",
-  "Even my FitBit is telling me to stay put.",
-  "I'm choosing Netflix over stress, sorry.",
-  "No, in the most heartfelt, humorous way possible.",
-  "My calendar is on strike.",
-  "I'm doing everyone a favor by sticking to what I'm good at: saying no.",
-  "No is part of my self-care routine.",
-  "This is a guilt-free no.",
-  "If I helped, I'd be robbing you of the chance to do it yourself.",
-  "My schedule is in airplane mode.",
-  "I'm not ghosting you; I'm giving you a firm no.",
-  "I'm at peace with saying no.",
-  "Negative. Full stop.",
-  "I must protect my sanity at all costs—so no.",
-  "Alas, I must decline.",
-  "Declining this request sparks joy in me.",
-  "I'm not ignoring you—I'm giving you a very clear 'no'.",
-  "Pretend I gave you a clever excuse and just take the 'no' as implied."
+["在人生的另一个阶段，我可能会说“好”——但现在不行。"
+,"虽然我很感激，但现在我无法承诺去追求这个。
+","每次想到这个，风中仿佛传来一个微小的“不”。
+","未来的我给我写了一张便条：“请不要再次同意这种事。”
+","这听起来很有趣，但我不是最适合的人选。
+","感谢你的好意，但现在这对我来说不太合适。
+","我很想说“好”，但这周我刚承诺少做些有争议的事情。
+","虽然我很感激，但考虑这个我无法承诺。
+","虽然我很感激，但自愿参与这个我无法承诺。
+","我在试图更有意识地选择我同意的事情，这件事不太符合。
+","我想对你坦诚——我对承诺这件事感到不舒服。
+","我得相信自己的直觉——它在轻声说“不”。
+","拒绝这个能让我对更重要的事情说“好”。
+","如果我说“好”，那就是在对我们俩撒谎——我的心理医生说别再这么做了。
+","我要礼貌地拒绝。这与我的目标方向不一致。
+","虽然我很感激，但尝试这个我无法承诺。
+","这个机会值得更好的投入，但我现在无法给予。
+","我不讨厌这个想法——但我也不想去做。
+","我现在没有能力承诺这件事。
+","虽然我很感激，但探索这个我无法承诺。
+","我已经接受了拒绝那些不让我兴奋的事情。
+","连我的日历都在嘲笑我试图把这件事塞进去。
+","我决定暂时搁置新的承诺。
+","这感觉像是未来的我会因为现在的我同意而大喊大叫的事。
+","我以前试过做太多，这感觉像是似曾相识。
+","你在这个项目上投入了巨大的能量，希望你理解我退出的决定。
+","虽然我很感激，但加入这个我无法承诺。
+","这是个好主意——但适合别人去承担。
+","那个会说“好”的我已经不存在了。
+","连我的咖啡都说：“今天不行。”
+","我的内心和平委员会一致否决了这个想法。
+","我知道这很重要，但我无法给予它应得的关注。
+","我想象过做这件事——然后迅速在梦里睡着了。
+","心理上，我已经离开了这个会发生的房间。
+","虽然我很感激，但接受这个我无法承诺。
+","这与我的价值观或当前重点不符。
+","请理解，我的决定不是针对你——只是我自己的界限。
+","我尊重这个机会，但我也知道自己的极限——这会让我超负荷。
+","如果我接下这个，我会背叛我给自己承诺的时间。
+","我上次做了类似决定后，我的猫至今不敢正眼看我。别重蹈覆辙了。
+","如果我同意，我得克隆一个自己。而我不信任那个克隆体。
+","这个感觉不太对，所以我得谢绝了。
+","我宁愿诚实地说“不”，也不愿带着怨气说“好”。
+","感谢你想到我，但我得谢绝这个。
+","我认真思考了一下，觉得现在拒绝是正确的选择。
+","我非常珍惜我们的关系，希望我的拒绝不会改变这一点。
+","这不是永远的“不”，但现在是“不”。
+","我的热情是真诚的，但我的时间是虚构的。
+","虽然我很感激，但拥抱这个我无法承诺。
+","目前我没有足够的精力来妥善处理这个。
+","我学会了保护自己的时间，这件事与我想要的花费方式不符。
+","现在这不是我能优先考虑的事情。
+","如果我说“好”，宇宙可能会因震惊而崩溃。
+","如果我同意，可能会打破时空连续体。
+","现在帮你可能会引发时间悖论——还是别冒险了。
+","我忙着阻止一个我真的会说“好”的未来。
+","我的日历与木星对齐，星星说“不”。
+","我很确定在这个星系里说“好”是禁止的。
+","如果我同意，多重宇宙都不会原谅我。
+","在任何我说了“好”的时间线里，最后都是混乱，所以我选择明智地拒绝。
+","我同意？那就像除以零——危险且不允许。
+","接受这个提议会让矩阵出现故障。
+","我接下来十年都忙着假装很有生产力。
+","我很想，但忙着数天花板上的瓷砖。
+","抱歉，我忙着按颜色和心情整理我的袜子抽屉。
+","我得跟我的沙发开会，它不接受“不”的回答。
+","我的日历提醒我在那个时间坐着发呆。
+","我的日程满了：我在按字母顺序整理零食。
+","我得完成一场激烈的“什么都不做”活动。
+","我有之前的承诺，要狂看油漆干燥。
+","我在进行一场非常重要的拖延马拉松。
+","我不能，我要去参加冰箱的开幕式。
+","我想帮忙，但我的 imaginary 朋友更需要我。
+","我不能，我的宠物石头正经历情感危机。
+","那天我的金鱼要结婚，我得参加。
+","我答应了我的 imaginary 猫今晚留在家里。
+","我的守护独角兽说我不能去。
+","我得帮 imaginary 朋友看他们的 imaginary 孩子。
+","不幸的是，我正在为我宠物的饮食做试吃志愿者。
+","我的宠物龙有兽医预约，不能错过。
+","我被我的宠物鹦鹉因行为不端而禁足，所以不能去。
+","我把时间机器借给朋友了，现在没法回去腾出今天下午。
+","我发誓要避免任何形式的效率。
+","今天做任何有用的事都违背我的个人信仰。
+","我的心理医生建议我避免可能有趣的活动。
+","我发誓要随意拒绝所有请求。
+","我只靠咖啡和拒绝运转，而我现在没咖啡了。
+","我对任何形式的责任过敏。
+","我有医生的证明，特别禁止我帮忙。
+","我很想帮忙，但我在试着打破乐于助人的连胜纪录。
+","我的拖延教练说我还没准备好接受实际任务。
+","我为了四旬斋放弃了说“好”，而四旬斋还没结束。
+","我有个人政策，在以“y”结尾的日子说“不”。
+","我的手机日历对我考虑这件事时翻了个白眼。
+","我得更新我的社交媒体状态为“忙着不做那个”。
+","我目前倾向于“不”。
+","我不能——我答应了Netflix我会待在家里看电影。
+","我的动力Wi-Fi已经断开连接。
+","我在等手机充电——不到100%我什么都不做。
+","我的Twitter简介写着“经常说不”，得保持品牌一致。
+","我忙着在Google上搜索动力，结果没找到。
+","我陷入了网络兔子洞，找不到出口。
+","我不能来，我在跟我的沙发开Zoom会议。
+","我很想，但就是不想。
+","我的回答是“不”——为你新鲜出炉。
+","我认真考虑过了，决定坚决说“不”。
+","就算有免费甜甜圈也不行。
+","到了我说“不”然后我们都继续前行的部分了。
+","让我查一下日程……哦，看，是永久的“不”。
+","我很荣幸你问我，但我得华丽地谢绝。
+","我今年的“好”配额已经用完了。
+","我太酷了，不能对那个说“好”。
+","俗话说：“不，不，不。”
+","你不会想让我说“好”的——相信我，这是为了更大的利益。
+","上次我说“好”，下了40天的雨。不想再来一次。
+","我答应了未来的自己对这个说“不”。
+","如果我同意，我得向我的心理医生解释。
+","我对说“好”的过去经历有心理阴影。
+","说“好”在我的戒除清单上。
+","我会，但那得先承认我讨厌一切是错的。
+","宇宙给了我一个信号说“不”（是个霓虹灯，很清楚）。
+","我曾经说过“好”。结果不好。涉及了羊驼。
+","我的直觉和我一致投票说“不”。
+","这听起来是个绝佳的机会……给别人。
+","好主意！我很遗憾不能参与。嗯，其实没那么遗憾。
+","我羡慕那些会对你说“好”的人，真的。
+","我非常喜欢这个概念，但我得谢绝。
+","绝妙的计划！不幸的是，我在躲避好点子的证人保护计划里。
+","这会是梦想成真。太糟了，我醒着而且说“不”。
+","你描绘了一幅美好的画面，我会远远地欣赏。
+","多慷慨的提议！我得慷慨地拒绝。
+","我相信这会大获成功，但我会是远方的仰慕者。
+","听起来很刺激！光是想想我就累了。
+","我已经换上睡衣，所以是“不”。
+","我的沙发宣布了禁飞区，我得遵守。
+","我懒得从舒服的毯子卷里出来。
+","我在为一场史诗级小睡存能量。
+","我太懒了，连好借口都想不出，所以就“不”。
+","从这个位置移动需要提前24小时通知。
+","我今天在无缘无故地节约能量。
+","我会，但那听起来像是需要努力，而我对努力过敏。
+","我目前在移动方面遇到技术困难。
+","我在为不动的马拉松训练。
+","那十年我得洗头发。
+","我得解冻冰箱里的冰山。
+","抱歉，那晚我得熨内裤。
+","我得照顾我的塑料花花园。
+","我的鱼需要遛一遛，这优先。
+","我得给我的办公椅换轮胎。
+","我在脑海里马拉松式地做家务。
+","盘子威胁说如果我再离开它们就造反。
+","那时候我和冰箱有夫妻疗程。
+","我得谢绝这场活动，同时整理我的袜子动物园。
+","在另一个宇宙，我绝对做了那个。只是不在这个宇宙。
+","也许下辈子我会考虑，但现在的我说“不”。
+","在平行维度我已经在干了——可惜我们在这儿。
+","我咨询了我的另一个自我，他们也拒绝了。
+","如果我克隆自己，我会派克隆体去。在那之前，不。
+","我问了未来的我，他们翻了个白眼，所以我谢绝。
+","我陷入了说“不”的时间循环。
+","在我说了“好”的另一个时间线，引发了丧尸末日。
+","我的邪恶双胞胎可能有兴趣；太糟了，他们也忙。
+","在某个平行宇宙我更乐于助人。可惜这不是那个宇宙。
+","我会，但那听起来危险地接近工作。
+","我做这件事的欲望目前在昏迷中。
+","我肯定会把它搞砸得壮观，所以最好不做。
+","我可以参加，但谁来在这儿撑墙？
+","这个请求超出了我零薪的工资等级。
+","灵魂愿意，但日程说“不行”。
+","我宁愿不今天尝试新事物来诱惑命运。
+","如果我加入，我只会拉低平均水平。
+","我做那个？那是没人想要的情节转折。
+","我在与那个想法保持社交距离。
+","我有个病，阻止我说“好”（它叫理智）。
+","我的医生说我需要更多“不”维生素。
+","我刚得了严重的“不今天病”。
+","心理上，我已经在度假了。
+","我在卧床休息，直到另行通知，医生的命令（我的医生是苏斯博士）。
+","我有慢性承诺恐惧症。
+","我得了点病，叫做懒惰。
+","我跟枕头和毯子有个约会。
+","我的心理医生说我该避免让自己痛苦的事；我猜这算一个。
+","我有“自我”时间的紧急情况。
+","我得在家防止世界无聊。
+","我在（电子游戏里）谈判世界和平。
+","我的超级英雄分身需要休息一天，我也一样。
+","我在执行一项秘密任务，避开你刚问的事。
+","我很想，但那谁去拯救世界？
+","我忙着组织全球小睡时间。
+","我得防止沙发飘走，这是个重要工作。
+","我手里拿着薯片的命运，我不能抛弃它。
+","我被选为今天客厅的守护者。
+","我在家里跟隐形龙战斗，比预期时间长。
+","你真不想让我参与——我的专长是搞砸事情。
+","我像是项目的黑猫；我远离比较安全。
+","相信我，我说“不”是在帮你。
+","我的参与带警告标签，所以我饶了你。
+","我会加入，但我只是来提供机智的拒绝。
+","我其实很糟糕，除非你需要一个怎么不做的例子。
+","你值得一个不说三句借口就说“好”的人。
+","我的记录表明我该谢绝这个。
+","我是错误的人选；我是对说“不”的人选。
+","如果你需要有人搞砸，我很完美。否则，我谢绝。
+","昨晚的幸运饼干说了“不”。
+","预言说我将拒绝这个。
+","我的塔罗牌集体叹了口气。
+","我看了水晶球，它说“不行”。
+","灵界建议我待在家里。
+","我扔了些符文，拼出了N-O。
+","我的魔法八球说“前景不佳”。
+","我在读茶叶，它们说要不惜一切避免这个。
+","一位通灵者警告我关于这类请求。
+","那时候我跟我的床有稳定关系。
+","睡眠和我的长期约会，我不能毁约。
+","我会，但我在尝试一种叫睡觉的新东西。
+","我已经吃了安眠药，我要熄灯了。
+","我在为眨眼和呼吸存能量。
+","我有早上的睡懒觉安排。
+","如果不是小睡，我不感兴趣。
+","我不能；我的枕头需要我。
+","别算我，我在数羊。
+","我会在一场可能持续整天的强力小睡中。
+","免责声明：我这边的任何同意在禁止乐趣的地方无效。
+","小字部分：我的“好”带着0%热情。
+","我查了生活的条款和条件，写着“不行”。
+","同意可能会违反几条个人规定。
+","根据我刚写的未成文规则，我必须拒绝。
+","我的用户协议严格禁止我做那个。
+","如果我同意，我会违反内向者日内瓦公约。
+","我把这个请求通过内部合规检查，失败了。
+","我的律师（ imaginary 的）建议不要。
+","我跟我的床签的合同不允许我做别的。
+","我的盘子满了，我已经吃了做人情的部分。
+","我超负荷、超压、超开心地说“不”。
+","我的日程因任务过多自燃了。
+","我在管理太多危机——再加一个可能会崩溃。
+","我的盘子上有太多，我在吃无额外任务的低碳饮食。
+","我在任务中溺水了，没带潜水装备。
+","我会，但我在其他遗憾中已经忙不过来。
+","我的待办清单长得我们都不说话了。
+","我对还没完成的任务太受欢迎了。
+","跑我生活轮子的小仓鼠因过度工作罢工了。
+","“不”只是“开”反过来拼，而我关了。
+","拼写检查建议我拼N-O。
+","我为你写了一首诗：玫瑰是红的，紫罗兰是蓝的，我的回答是不，办不到。
+","我唯一倾向于说的就是拒绝。
+","让我用你懂的语言说：不。
+","我精通五种语言，在所有语言里，答案都是“不”。
+","“好”和我目前不说话。
+","我会用花哨的拉丁文短语说“不”，但简单的“不”就够了。
+","作为一个缩写，我的答案是N.O.。
+","如果你把“好”的字母重新排列，你得到“sye”——这正是我做这个有多大意义。
+","我预约到宇宙热寂。
+","我的日历到下个世纪都满了，抱歉。
+","我跟我的余生有日程冲突。
+","我不空闲，直到太阳从西边升起东边落下。
+","一百万年后回来找我，我可能有时间。
+","我现在跟生活通话中；预计要等很久。
+","我的可用性目前处于量子不确定状态，倾向于“不”。
+","我预订了接下来的千次拒绝，你只是其中之一。
+","我的日程比假期后的牛仔裤还紧。
+","我看了我的日历，它嘲笑我竟然问了。
+","谢谢你想到我，但我得搞笑地拒绝。
+","我很感激这个提议，但我得拒绝，主要是因为懒惰。
+","非常感谢你问我，但不行，牛仔。
+","我很荣幸你想到我，但我得恭敬又搞笑地拒绝。
+","请接受我最真诚的歉意，我笑着说“不”。
+","很遗憾，我得谢绝，但我会带着微笑。
+","不是你的问题，是我。我对做事过敏。
+","恭敬地，我要幽灵般回避这个机会。
+","我真的很感动你问我。真的。不过还是“不”。
+","恕我直言，没门儿，José。
+","我忘了怎么说“好”。
+","我对责任有短期记忆丧失。
+","我会同意，但我忘了你问什么，所以……不。
+","我的大脑自动删除这类请求。
+","我对人情有选择性失忆。
+","我本来要帮忙，但我忘了在乎。
+","抱歉，我得了CRS（记不得说“好”）。
+","我记不得上次说“好”是什么时候，也不会现在开始。
+","那是什么？你问了什么？没问？很好。
+","我把你的请求放进了我的心理碎纸机。
+","我不能；我忙着教我的金鱼为慈善事业玩取物游戏。
+","我把那个时间段献给了思考人生意义。真是慈善案例。
+","我把所有空闲时间捐给了不做事的事业。
+","我在为禁止这类请求的请愿书工作。
+","我的日历里全是职业反对者协会的志愿工作。
+","我在为慈善活动训练：说“不”的马拉松。
+","我在通过频繁使用来提高对濒危词“不”的认识。
+","我把那天的时间段拍卖给了出价最高的“什么都不做”。
+","我在进行远离责任的静修。
+","我把所有空闲时间给了别人；我现在是赤字状态。
+","我在严格的无社交互动饮食中。
+","我得取消；我这周的社交配额超标了。
+","我现在极度内向，无法停下来做那个。
+","我的社交电池为0%，充电器还丢了。
+","我在进行内向者冒险（室内，独处）。
+","我不能出去；我最近开始了隐士生活。
+","社交不在考虑范围内，我把桌子都掀了。
+","我对人群过敏，有时候一个人也算。
+","我在与所有人保持社交距离。
+","公开的我已经下班；请永远别联系我。
+","我不小心把自己粘在沙发上了。
+","我的腿因过度行走提出了投诉。
+","我的动力自己跑了，没带我。
+","我在经历灵魂出窍，还没回来。
+","我的能量和我目前是异地恋。
+","我今天醒来得了严重的重力病；起不来。
+","我得了急性沙发磁力症。
+","我的四肢无限期罢工。
+","我感觉像度假的树懒一样活跃。
+","我被自己的懒惰软禁在家。
+","我宁愿泡在一周前的汤里也不做那个。
+","我宁愿蒙眼杂耍电锯——比说“好”安全。
+","我会赤脚爬珠穆朗玛峰也不会同意那个。
+","我宁愿做独一无二的彩弹靶子也不参加。
+","老实说，嚼玻璃听起来比对这个说“好”有趣。
+","我宁愿不用麻醉给自己做牙科手术。
+","说“好”？我宁愿挑战袋鼠拳击赛。
+","我宁愿连续一小时踩乐高积木。
+","我更喜欢不做的刺激，谢谢。
+","我会接受，但我有严格的不掉入明显陷阱政策。
+","我会，但我的银行账户说我付不起去那儿的汽油费。
+","除非有现金奖励，否则我得拒绝。
+","我只按佣金工作，这个请求不付披萨。
+","如果你付我金条，我会重新考虑。否则，不。
+","我的会计师建议我说“好”不平衡我的账本。
+","我在等一个富有的赞助人资助我的“好”。
+","我无法将那个纳入我的时间和精力预算。
+","我有点财务拮据：资金和“好”都不足。
+","除非我得到股票期权，否则我退出。
+","我需要预付款才能考虑说“好”。
+","我在等宇宙的信号……哦，来了：它说“不”。
+","我需要保存我仅剩的脑细胞。
+","我的存在焦虑和我有计划。
+","我在罢工，直到另行通知，我是工会领袖。
+","我跟披萨和电视剧有个热门约会。
+","我在庆祝全国“不”日，这是我的个人节日。
+","我有政策不跳进火山，这感觉同样危险。
+","不能来，我跟床和枕头有别的计划。
+","我得拒绝，为了科学！
+","我在试着看我能多久不做任何有成效的事。
+","我妈说我得待在家，嗯，把 pantry 按字母排序。
+","我的家人为捉迷藏预订了我，我是失踪的那块。
+","我的孩子因为我试图有自己的生活而禁足了我。
+","我不能；如果我做了，我的祖先灵魂会不高兴。
+","我的狗只允许我为了散步出门，不是工作。
+","我的配偶已经为我和Netflix安排了晚餐计划。
+","是家庭之夜，所谓家庭，是我和我的零食。
+","我得参加今晚什么都不做的家庭传统。
+","我的猫给了我“别敢出去”的眼神。
+","我的金鱼家族聚会在我的鱼缸里举行。
+","“不”只是得了对立违抗障碍的“好”。
+","N-O：两个字母，完美描述了我的计划。
+","我要把你的邀请变成一个“不行”。
+","“不”是我的精神动物。
+","不会拼“不行”没有N-O。
+","他们说双重否定变肯定，但我的单一否定站得稳。
+","我在辅音上拒绝，元音上退出。
+","以防你没听清：N代表“No”，O代表“Oh-no-not-today”。
+","我的座右铭是“只说不”，我对它很忠诚。
+","我报了个说“不”的课程，我在练习作业。
+","我更喜欢在那时候看草长，抱歉。
+","其实，我计划数沙粒，听起来更有趣。
+","我一直期待重新整理我的纽扣收藏。
+","我安排了与吊扇的优质时光。
+","我有个激动人心的约会，就是绝对什么都不做。
+","我在与空闲时间热恋，不能背叛它。
+","我有前排座位去看我的沙发，我得用上。
+","有个我没看过的节目重播，我不能错过。
+","我已经承诺那时候玩弄大拇指。
+","我得拒绝；我不想因为我的出现让大家黯然失色。
+","我的伟大对那个活动来说太大了。
+","我会说“好”，但如果我毫不费力地出彩，对别人不公平。
+","我不能去；如果我去了，狗仔队可能会蜂拥而至。
+","我不来是在帮你，不抢你的风头。
+","我会参加，但我在自己的镜子里是个大人物。
+","我太酷了（其实是太懒了）。
+","允许我优雅地拒绝，这样你们可以没有我压倒性的厉害而玩得开心。
+","我得谢绝；我在别处忙着做 fabulous。
+","我得谦虚地拒绝，因为我的完美太累人了。
+","那天我得把魔戒送回魔多。
+","抱歉，那时候我得跟达斯·维达战斗。
+","我得守着电话，以防霍格沃茨打来。
+","我会，但我已经在别处自愿做贡品。
+","我的蝙蝠信号亮了，得去救哥谭。
+","我不能——我的通量电容器坏了，赶不上时间。
+","那晚是我预定的回到未来之旅。
+","如果我离开家，丧尸可能会袭击，我在纪录片里看到的（好吧，是丧尸电影）。
+","我忙着跟一些小黄人谈判；世界统治不能等。
+","我得咨询奇异博士关于参加（他预见我不会）。
+","我的老板告诉我只对加薪说“好”，其他都“不”。
+","我用完了所有病假，所以我请健康假待在家。
+","我的老师说我得专注于不过度承诺。
+","我有个工作的事……叫做避免工作。
+","我的工作日历在那个日期有个大红“不行”。
+","我不能，我有个重要的会议要盯着电子表格思考人生。
+","我在休个人日以避免与人接触。
+","我跟自己有个电话会议，非常耗时。
+","我的加班和我的空闲时间打架，空闲时间输了。
+","我的PTO（允许退出许可）生效了。
+","如果我去，可能会引发末日。最好不冒险。
+","我得待着防止丧尸爆发开始（说来话长）。
+","我会来，但诺查丹玛斯预言我会说“不”。
+","如果我说“好”，那是末日的标志之一，避开吧。
+","我的出席是末日前的最后封印，所以坚决谢绝。
+","我担心我的“好”会召唤克苏鲁之类的东西。
+","我在避免引发结束世界的蝴蝶效应。
+","传说如果我同意，世界会以壮观的音乐剧结束。
+","我跟恶魔做了交易永不说“好”，我讨厌违约。
+","每次我考虑同意，末日钟就走得更快。
+","是的，你可以把我的沉默解读为“不”。
+","我的灵魂在点头说“好”，但我的身体在摇头说“不”。
+","当然……你肯定能找别人吧？
+","“好”在我的词汇表里，只是今天不在。
+","在从“好”到“不”的量表上，我在“绝不可能”。
+","我想说“好”，但说出来的全是“不”。
+","考虑我的“好”在邮寄中丢失了。
+","Y-E-S是你今天不会从我这儿听到的字母。
+","想象我热情地不做那个。
+","想象我帮忙？现在想象相反的。好了。
+","我感觉不走运，所以最好不冒险说“好”。
+","我掷了骰子，结果是“不”。
+","我咨询了幸运女神；她让我待在家。
+","我的运气在你问之前就用完了。
+","如果我每次说“不”有五分钱，我会很富有。说到这个，不。
+","我会加入，但我刚走过梯子底下还打破了镜子。不想冒险。
+","我的算命师说“这不在你的星象里”，我信这个。
+","我从牌堆里抽了张牌，写着“不通过，不说好”。
+","命运对这个左滑了。
+","星星对齐了……形成一个大大的“不”。
+","我不能；天气预报说那天我100%待在家。
+","现在下着“不”的雨，我被淋湿了。
+","我只在完美天气条件下出门，这显然不是（对我来说）。
+","我在经历一场懒惰的大暴雨。
+","命运之风吹来，我被一个“不”打脸。
+","暴风雨在酝酿，名叫我的不情愿。
+","我怀疑一场突如其来的责任龙卷风会让我待在室内。
+","我心情不好，具体是“不”的云。
+","那天的预报是我有高概率不出现。
+","我讨厌出门会融化；我是由糖和讽刺组成的。
+","我可以说“好”，但那是谎言。
+","我的心说“好”，但我的灵魂说“你开玩笑吧？”。
+","我身体上能做，只是道德上反对（对努力）。
+","我有内在冲突：一部分我说“不”。另一部分也说“不”。
+","我到了只对讨厌的事说“不”的年纪。我讨厌这个。
+","我做这件事的意志力在路上堵车了，不会到。
+","我思考了一下。思考的结果是“不”。
+","理论上我能，但让我们坚持现实，我不会。
+","我在试着少讨好别人，从现在开始。
+","我刚对着镜子练习说“不”，感觉很对。
+","我不能没喝咖啡就说“好”。我永远不打算喝咖啡。
+","没咖啡，没动力。
+","我的咖啡和我有个协议：没它不做重要决定，它不在。
+","我会说“好”，但我还没达到应对后果的每日咖啡配额。
+","我在无咖啡状态的“不”中。
+","我的大脑只靠咖啡驱动，我们现在停电了。
+","没Java，没动力。
+","咖啡机请了病假，所以我无法同意任何事。
+","我答应自己只在喝咖啡后决定；太糟了，已经是“不”的时间。
+","我的早间咖啡和我决定这不值得耗费咖啡因。
+","我忙着策划世界统治，不能参加。
+","如果我说“好”，可能会毁了我的邪恶计划。
+","我的秘密巢穴那时候需要照料。
+","我在进行一个狡猾的计划，不能中断。
+","我不能帮你；我在训练做超级反派，这会毁了我的信誉。
+","我会加入，但那我得招募你加入我的计划，你不会喜欢的。
+","我在头脑风暴如何统治世界，需要全神贯注。
+","我的小黄人那天计划造反，我得在场。
+","我很遗憾地拒绝，因为我得练习很多邪恶的笑声。
+","邪恶永不眠，显然我也是，但我绝对不出门。
+","我在通过不给自己压力来调整脉轮，所以我说“不”。
+","为了维持原力的平衡，我必须拒绝。
+","我的阴阳告诉我不要做。
+","为了宇宙的平衡，我不能同意。
+","我在调整生活风水，禁止新的承诺。
+","我必须拒绝，否则我懒惰的微妙平衡会被扰乱。
+","说“好”会打乱我每周好与不的比率平衡。
+","我得保持我的业力清净，我感觉说“好”会弄脏它。
+","我必须达到内心平静，这意味着不让我的日子复杂化。
+","我担心如果我享受了，会变成坏习惯。
+","如果我喜欢了，就得再做一次，所以不。
+","我害怕成功，所以我必须拒绝任何可能成功的事。
+","我担心如果我说“好”干得好，会把标准定太高。
+","乐趣？我不确定我记得那是什么，最好不冒险。
+","我对乐趣过敏——会爆发讽刺。
+","我避免任何让我笑太多的事。
+","我在试着保持神秘，说“好”会让我太容易接近。
+","我喜欢通过什么都不做来保持低期望。
+","我直到另行通知都避免乐趣。
+","让我做那个就像让鱼爬树。
+","我做那个就像鸡试着做代数。
+","说“好”就像猫变成素食主义者一样不寻常。
+","这个想法和我就像油和水。
+","我参与就像方钉入圆孔——不合适。
+","我的动力和那个任务就像两块互相排斥的磁铁。
+","这就像期待树懒赢得100米短跑。
+","就像冰淇淋和热汤一样不相容——最好分开。
+","我说“好”的可能性就像猪开宇宙飞船。
+","那个请求是我过敏的花生酱。
+","我刚意识到今天是节日：全国不去做日。
+","我在庆祝个人节日，叫做“不行十一月”。
+","我不能；那天我要宣泄Festivus的不满。
+","我那天预订了庆祝“不”节。
+","我已经承诺了反工作假期。
+","我庆祝相反日，做的与你要求相反。
+","抱歉，这是我年度休息日……像安息日，但为了懒惰。
+","我只庆祝有蛋糕的活动，所以除非有蛋糕，不。
+","那个日期与我延长庆祝“悠闲节”冲突。
+","那是我的宠物石头的生日，对我来说基本上是全球节日。
+","我想说“好”，但我的常识反复喊“不”。
+","我的心说“也许”，但我的大脑扔了个巨大的红旗。
+","你问的时候我的直觉开始跳Macarena（那是“不”的舞蹈）。
+","我的每一根纤维都在为说“不”做波浪。
+","我脑子里微小的责任声音和响亮的懒惰声音都同意：不。
+","我问了我的更好判断，它歇斯底里地笑了。
+","我的大脑高亮了那个请求然后按了删除键。
+","如果我说“好”，我的良心会困扰我。
+","连我肩上的天使都说：“不，伙计。”
+","我的内心声音像达斯·维达一样尖叫“NOOOO”。
+","我不是在拖延；我是在提前主动说“不”。
+","我把决定推迟到时间尽头——剧透：是不。
+","今天做的事我可以无限期避免，为什么不？
+","我的计划本每页都写着“不行”这周。
+","我会把这个请求放在我的待办清单上，排在“学瞬移”之后。
+","我在把拖延重新安排到更晚。
+","我在等最后一分钟，而它还没到。
+","我考虑晚点做，然后意识到晚点也全满了。
+","我在拖延的滚雪球中，不能现在停。
+","我推迟我的“好”到一个不存在的年份。
+","我会帮忙，但那你会有两个需要帮忙的人。
+","我不确定你能承受我尝试造成的损失。
+","我的帮助带退款保证，但你不会想要的。
+","我是最后一个该做那个的人——字面意义上，我排最后。
+","我试过类似的事；让我们说消防队介入了。
+","如果我做，你会花更多时间修我的错误。
+","我的能力现在在度假。
+","我擅长拖延，而不是实际做事。
+","我会自愿，但我的无能费很高。
+","我会协助，但我得合法声明不保证结果。
+","这在我心里没点燃快乐，所以我谢绝。
+","那个想法没通过我的氛围检查。
+","我没感觉到对做那个的强烈吸引力。
+","我的兴趣水平在零和负数之间。
+","如果我再没兴趣，我会陷入昏迷。
+","你提这个想法时，我的兴趣就跑出了房间。
+","我确定这很迷人，但我的注意力跨度不这么想。
+","我在为更无聊的事存热情。
+","我考虑一半就睡着了。
+","我试着为此兴奋，结果拉伤了肌肉。
+","政府把我列入避免这类活动的证人保护计划。
+","我的假释官说我只许致力于懒惰。
+","FBI打来电话；他们说我说“好”是国家安全风险。
+","我会来，但我的生活法官判我待在家。
+","我的乐趣执照被吊销了。
+","我想遵守，但我的严格命令是不要。
+","英格兰女王的鬼魂告诉我待在家（我只接受皇家命令）。
+","我被流放的岛不允许我为活动离开。
+","我因生活选择的条款合同义务拒绝。
+","警察说我太有趣，不能参加普通聚会。
+","我太老了，不能承诺这种事。
+","我觉得我到了对这类事说“不”的年纪。
+","在我这个年纪，我的“在乎”已经坏了。
+","我在经历中年危机，说“好”不在其中。
+","我在叛逆期，只做我想做的，所以不。
+","我在模仿内心的老顽固，待在家。
+","我在重温青少年叛逆，对一切说“不”。
+","在我那个年代，我们不用做不想做的事（我要保持这样）。
+","我在为未来做暴躁老隐士练习。
+","我像优质葡萄酒一样老去，意味着对说“不”更固执。
+","我的仙女教母说我该待在家，否则我会变成南瓜。
+","灰姑娘在这儿丢了一只鞋，我得帮她找另一只而不是出去。
+","我在等带着披萨的白马王子，所以我哪儿也不能去。
+","我不能来；大灰狼在我门口（显然在卖保险）。
+","我得看着我的姜饼屋，你知道是怎么回事。
+","七个小矮人警告我不要过度扩展自己。
+","我在睡眠咒语中，只有时间（和不做那个）能打破。
+","我丢了玻璃鞋，没有合适的鞋不能出门。
+","我该亲的青蛙变王子给了我延期支票。
+","我陷在童话里，同意那个不在剧情中。
+","今晚我得守着冰箱；零食靠我了。
+","我把那段时间献给了需要陪伴的冰淇淋。
+","我在为不做那个的马拉松囤碳水。
+","我有个晚餐约会是跟披萨，它会嫉妒如果我取消。
+","我不能出去；冰箱刚开了瓶酒，不加入太无礼。
+","我在试理论我能仅靠薯片生存，不能中断。
+","我的烤箱和我计划烤并吃整个蛋糕。
+","我承诺帮我的爆米花爆开——是个很复杂的过程。
+","我会，但我刚开始为一人（我）做五道菜大餐。
+","我在学做隐形餐；很耗时。
+","我得待命以防Netflix需要我看什么。
+","我是家族沙发土豆的待命人员。
+","我这周是指定待在家的人。
+","我在自己的懒惰法庭上服陪审员义务。
+","我在执行一项秘密待命任务——不能透露，只知道我不能来。
+","我是我的电视的紧急联系人，所以我得随时待命。
+","我承诺待在家以防零食紧急情况。
+","我报名做睡懒觉的试验对象，那时有个实验。
+","我在参与一个绝密项目，叫做“不”计划。
+","我有义务维护：让我的沙发不感到孤单。
+","我的车决定休个人日。
+","我客厅的公共交通目前不运营。
+","我试着离开，但我的门不让我（我们谈判了，我留下了）。
+","我的GPS建议我待在家以避免坏决定。
+","我的拼车小马生病了。是的，是小马，别问。
+","我会骑自行车去，但我的自行车嘲笑我。
+","Uber不把我送到坏点子。
+","我错过了让我去的思路火车。
+","我的扫帚在修理厂（你知道那些多不可靠）。
+","所有路都通向我待在家。
+","我的保险不覆盖做那个的行为。
+","我得待在安全环境，那个活动听起来有风险（对我的理智）。
+","职业健康与安全把那个活动标记为对我有害。
+","我在等我的气泡膜套装到达才能尝试这类事。
+","那对我的幸福（主要是心理幸福）听起来危险。
+","我只在监督下操作重型机械（像我的沙发），所以我不能去。
+","上次我试了，我的灵魂得了纸割伤。
+","出于安全原因，我得远离那种兴奋。
+","我的守护天使对那个计划提交了限制令。
+","我不想通过说“好”伤害我的生存意志。
+","我已经超越了对这类活动的需求。
+","我在专注于什么都不做的旅程，不是那个任务的目的地。
+","我的存在危机和我决定反对。
+","在人生的宏伟挂毯中，我是谢绝的那根线。
+","我意识到人生的意义不是做那个，所以我很好。
+","我宁愿寻找生命的意义也不参加。
+","我思故我在……不去做那个。
+","我现在的哲学：如果需要穿裤子，就是“不”。
+","我在实践道教的无为（什么都不做），所以我得拒绝。
+","做还是不做？这是问题，我回答“不做”。
+","我在说“不”大师下训练多年。
+","我得了“不术”的黑带。
+","我一生都在准备对这个具体请求说“不”。
+","我上了个自信研讨会，迫不及待用我学的：不。
+","我的反射神经自动拒绝邀请。
+","我报名了“只说不”工作坊，我得练习。
+","我是只通过拒绝沟通的秘密社团成员。
+","我的条件反射是不，我的膝盖感觉特别反射。
+","说“不”是我的有氧运动。
+","我整周都在排练我的“不”以备这种场合。
+","“不”是我的中间名。嗯，不是法律上的，但精神上是。
+","我来自一长串专业拒绝者。
+","我的DNA测试结果：我100%不做那个。
+","我天生倾向于说“不”。
+","我生来就说“不”——我说的第一个词，从未停止。
+","我有罕见的基因疾病，会爆发拒绝。
+","我的精神动物是树懒，它告诉我待着别动。
+","占星上，我是“不”座或天秤不想座（其中之一）。
+","我小时候发誓避免任何类似的事。
+","我的生活教练建议我消除压力源，从这个开始。
+","我的朋友如果我突然对事情说“好”会心脏病发作。
+","如果我开始同意合理请求，会树立坏先例。
+","如果我现在说“好”，会到哪儿为止？统治世界？最好不。
+","一次说“好”可能让我有乐于助人的名声——不能这样。
+","我不能用这样的责任震惊我的系统；医生的命令。
+","“好”是个对改变人生的事件来说太小的词，我没准备好。
+","我担心现在说“好”会打开期望的洪水闸门。
+","如果我说“好”，人们可能期待我再做。想都别想。
+","同意这个会让认识我为职业回避者的人困惑。
+","我的品牌是“可靠的失望”，我得保持一致。
+","我可以要个雨票然后永远丢了它吗？
+","我们把它定在“永不”的12号。
+","我会在这个月的32号加入你。
+","要不我下次再来……在平行宇宙？
+","也许另一个时间，比如猪会飞或地狱结冰，随便哪个先来。
+","我会精神上参加。具体来说，是“不在那儿”的精神。
+","我们说我在我们的想象里在那儿，然后结束。
+","我在思想上在那儿，只是身体或实际存在不在。
+","我会告诉你我什么时候有空。（别等着。）
+","我在电子游戏里执行任务，现实生活没法比。
+","我会，但我在什么都不做上差一级经验值。
+","我的魔兽世界公会需要我去刷“不”药水。
+","我在玩一场高风险的俄罗斯方块（是的，很严肃）。
+","我答应了我的在线朋友我要保持服务器活跃。
+","我在练习游戏技巧；现实生活的任务得等。
+","那时候我得保卫我的虚拟村庄免受像素入侵者。
+","我的控制器死了，我出去的欲望也死了。
+","我在扮演隐士。
+","我忙着在内向上创高分。
+","我没有能匹配我去后会后悔的表情的衣服。
+","我的衣服对户外活动过敏。
+","我的衣橱和我有协议：它只见沙发。
+","我不能去，我已经换上睡衣。
+","我找不到动力打扮；我想我捐了它。
+","那个的着装要求听起来像是“努力”，所以我退出。
+","我只参加允许睡衣作为正装的活动。
+","我的时尚感刚发短信：说别费心。
+","我被困在衣橱的纳尼亚，出不去参加。
+","抱歉，我的衣橱里没东西喊“我们去做这个”。全喊“待在家”。
+","我的狗吃了我的作业，然后要求续集。
+","我迟到因为时间今天决定比我快。
+","我没上班因为我的卧室在绑架我做人质。
+","我没出现因为我更喜欢时尚地缺席。
+","我的闹钟和我吵架，它不响赢了。
+","我逃课因为我欠自己不学坏东西。
+","我没加入因为我忙着不为此恐慌。
+","我没参加会议因为我被一个白日梦绑架了。
+","我最后一刻退出因为承诺问题是我家族遗传。
+","我的精神准时到达，但我的身体绕道了。
+","鱼需要自行车吗？这就是我需要做这个的程度。
+","猪会飞吗？只有那时我会做那个。
+","天空是绿的吗？不是？这就是我的回答。
+","同意明智吗？这是我的委员会的“不”。
+","这是我说“好”的部分吗？不是？好，因为我不会。
+","我看起来像是会做那个的人吗？对，我不是。
+","今天是相反日吗？因为否则我的回答是“不”。
+","我听到自己自愿了吗？没有，所以我保持这样。
+","这是个诡计问题吗？因为我像回答诡计一样：不。
+","我会来吗？我会在水不湿时回答那个。
+","我要用解释性舞蹈表达我的回答。*表演一个“不”*
+","如果我会唱，我会为你用歌剧唱“我说不”。
+","想象我戏剧性地喊“我拒绝！”伴随着披风一挥。
+","我会为我的回答写首俳句：“绝对不 / 毫无疑问不 / 还是不，抱歉”。
+","想象一个天空书写者在你家上方写“NO”——这就是我的回答。
+","插入交响乐音效：咚咚咚不。
+","我在撒五彩纸屑，纸屑拼出“NO”。
+","我举起一张写着0的计分牌，代表0%可能性。
+","即兴戏剧时间：我扮演一个说“不”的人。结束。
+","*提示戏剧性退出，伴随拒绝独白*。
+","我会，但我是蝙蝠侠。（这个借口对任何事都管用，对吧？）
+","我昨天被外星人绑架，他们严格指示我避免那个。
+","外星人邀请我去银河派对，我已经对他们回复了“好”。
+","那时候我在与外星人沟通，地球事件得等。
+","我在梦里去火星的任务，现实有日程冲突。
+","我不能来；我是外星人对地球的导游，他们要求很高。
+","母舰随时会来接我。
+","我在学外星语言；他们没有“好”这个词，我现在也没有。
+","外星人带走了我的热情。
+","我怀疑我是个外星人，我们历史上避免这种情况。
+","我的星球需要我，所以我得走（意思是待在家）。
+","我在竞选拖延俱乐部主席；我的竞选很耗时。
+","我的参与意愿在你问时神秘消失。
+","我玩了在乎的彩票，输了。
+","我对意外享受义务有非理性恐惧，所以我避免。
+","就像迷因说的，没人有时间干那个。
+","我太深入舒适区，连出口都看不见。
+","我今天的“不行”限额已达。
+","我的日历刚对我发了对新事件的限制令。
+","我在与取消计划的长期关系中。
+","我在为这个活动体验JOMO（错过的快乐）。
+","模仿反耐克：“别做就是了。”
+","我宁愿后悔没做也不后悔做了。
+","套用我的墨菲定律：如果能避免，就会被避免。
+","我的回答像薛定谔的猫：既是“好”又是不，直到你意识到只是不。
+","YOLO，所以我说“不”——我太珍惜我的一次人生。
+","我的星座运势刚通知我：“今天适合说不。”
+","如果说“不”是奥运项目，我会得金牌。
+","我把拒绝当荣誉徽章戴着。
+","我得比能量饮料上的猎豹还快地拒绝。
+","我会说“好”，但那我得从白日梦醒来，现实远没那么愉快。
+","紧急情况！我刚吃完巧克力，这是我现在能处理的全部。
+","命运刚滑进我的私信，带着一个大大的“不”。
+","我的大脑硬盘满了无用信息，没地方放新任务。
+","如果我帮你，我会为自己骄傲，我处理不了那种情绪。
+","我给你两个选择：不，或不行。你选吧。
+","我们做多项选择。我选（D）——不会发生。
+","往好的方面看：至少我在说“不”上很一致。
+","考虑这是一个带着讽刺的“不”。
+","我陷在拖延的黑洞里，没能及时逃出来做那个。
+","我只在日食时说“好”，现在没日食计划。
+","我的复古灵魂处理不了这样的现代任务。
+","“好”这个词让我起荨麻疹；我在避免过敏反应。
+","我梦到我说“好”；我冷汗醒来。现实里不做那个。
+","在你问的时间里，我已经决定了“不”。
+","抱歉，我听不到你，我被我不做那个的声音盖过了。
+","我觉得我们的连接不好。如果你让我做什么，答案是静电……意思是不。
+","我听错了，我以为你说“你想要个塔可”。既然你没说，我没兴趣。
+","我的手机把你的请求自动纠正为“不”，奇怪吧？
+","我收到了你的消息，但不幸的是，我的垃圾过滤器把它归为“不想的任务”。
+","我相信你找错人了；会说“好”的人不在。
+","我精通讽刺，所以我对你的问题的解读是坚决的“不”。
+","让我把你放进等待……*永不接通*。
+","我没收到我该在乎的备忘录。
+","我在不在乎上有技术困难。
+","拖延之神要求我通过不做这个任务来祭祀。
+","“不”是个完整的句子，这是我的最终答案。
+","我担心同意会触发丧尸末日，所以我安全起见。
+","我的蜘蛛感官在发麻，告诉我不要做这个。
+","我的存在结构不适合那个请求。
+","他们说“追随你的梦想”——我的梦想是不做那个。
+","我在遵循“做你爱的”的格言——我爱说“不”。
+","不是今天，撒旦。其实，任何一天都不行。
+","我的拖延干得很好；我不想打断它的节奏。
+","“不”意味着“新机会”……让我待在家。
+","我打赌我能一整周对一切说“不”。我就要赢了。
+","我在做社会实验，观察说“不”会发生什么。
+","我讨厌做事的习惯之一，所以我不做。
+","人生短暂，我选择按我的方式浪费，不是那个。
+","我本月的坏决定配额已满；说“好”会超标。
+","我很想参加，但我的内心死了，所以我不能。
+","我有主角综合症，我的故事弧不包括做那个。
+","把我想象成说“不”的最终BOSS——不败。
+","时间是不可再生资源，我选择不花在那个上。
+","我的做事免费试用已过期，我付不起订阅费。
+","我在严格的“无承诺”饮食中。
+","我在间歇性禁食责任；今天是禁食日。
+","我只在闰日说“好”，今天不是。
+","我不能冒险通过乐于助人解锁我的最终形态。
+","我得通过不出现保持神秘感。
+","我不能让人发现我其实有空闲时间。
+","我今天早上起床用光了所有意志力。
+","我的生活是个选择你自己的冒险，我翻到我说“不”的页面。
+","凭借赋予我的权力，我正式说“不”。
+","我、我自己和我的会议一致决定拒绝。
+","我看到你的请求，我加注一个“不”。
+","我的热情在延期交货，送货日期不断推迟。
+","我还在从上次说“好”中恢复。
+","我以前做这类事，然后我膝盖中了一箭。
+","如果我从没计划做，那不是拖延。
+","我没选择“不”生活；“不”生活选择了我。
+","我的操作系统目前不支持努力。
+","我的私人助理（ imaginary 的）已经为我拒绝了。
+","我更喜欢做人形的“不在办公室”信息。
+","我在去“好”的路上迷路了，到了“不”。
+","如果我说“好”，我就得真去做——让我们避免那个。
+","在我的人生英雄之旅中，我在“拒绝召唤”阶段。
+","我在从任何像工作的事上休学术假。
+","我做了新年决议要更常说“不”。现在开始。
+","我做了风险评估，结果说“不”。
+","我得维护我的名声——具体来说，是说“不”的名声。
+","我的直觉告诉我今天不是开始乐于助人的日子。
+","想到做那个让我有种虚幻的背痛。我谢绝。
+","如果我每次说“不”有五分钱，我会有很多五分钱。
+","我在参加反社交俱乐部会议（我是唯一成员）。
+","我的大脑硬盘满了；没地方放那个任务。
+","我会来，但我刚试着一种叫“我就是不”的新东西。
+","很遗憾通知你，我会强烈地不做那个。
+","我通过看着别人说“好”来间接生活，所以我不用。
+","魔镜魔镜告诉我，我该做吗？它说：“完全不。”
+","我不能说“好”；那会危及我在拖延名人堂的地位。
+","我做那个的概率接近绝对零。
+","我的不做承诺会对我做别的感到嫉妒。
+","我的核心竞争力是回避事情，我得专注于它。
+","我缺乏假装考虑那个的必要热情。
+","我更是个“远远观察”的人，而不是“参与”的人。
+","我的大脑像只只会说“不”的鹦鹉。
+","我在写一本叫《101种说不的方法》的书——谢谢你的素材。
+","我是个糟糕的撒谎者，所以我不会假装我想做那个。
+","“不。”我给这个回答五星。
+","“不”——来自我，带着爱。
+","愿“不”与你同在。
+","说“不”是我的超能力，我在用它救我的空闲时间。
+","光听这个我就感到筋疲力尽，所以我先谢绝。
+","我在遵循最少努力原则，意味着我得拒绝。
+","我的生活像部关于逃避责任的喜剧，我不能打破角色。
+","我查了我的可用性，结果是阴性。
+","我要假装没听到那个请求，继续不做。
+","不能做——用最礼貌的方式说（还是不）。
+","我在休心理健康年（现在开始），所以我得拒绝。
+","我拒绝回答，因为那可能导致实际工作。
+","让我们诚实：我们都知道我不会做。
+","我得谢绝，出于个人原因（个人原因：我就是不想）。
+","不吹牛，我真的很擅长不做事。
+","想象一个我的日程和你的请求的维恩图——它们不重叠。
+","我的大脑开了太多标签，没一个是关于那个的。
+","我忙着内省（代号什么都不做）。
+","我有个不做清单，这个排在最上面。
+","我在低成就上超负荷。
+","这个请求超出了我的情感薪资等级。
+","我的热情申请了破产，所以我不能投资那个。
+","我的日历全是留给自我时间的空白。
+","我不是忽略你——我在给你一个坚定的“不”。
+","如果我再多接一件事，我会正式成为警示故事。
+","把我的拒绝看作处理拒绝的免费课程。
+","我钦佩你问的坚持，但还是“不”。
+","我已经在什么都不做的快车道上，不能为那个慢下来。
+","我不能去；我忙得不忙。
+","如果我帮你，我会觉得有义务帮别人，那是条我避免的滑坡。
+","宇宙告诉我“善待自己”，我认为这是待在家的信号。
+","从没人说我太乐于助人，我也不打算现在开始。
+","我害怕改变，所以我坚持说“不”。
+","我的生活像个积木塔；再多一件事可能会倒。
+","我没有带宽（或任何宽度）给那个。
+","人生短暂，我的午睡清单很长。
+","坦白说，亲爱的，我一点也不在乎（做那个）。
+","我试着从你的角度看，但还是得说“不”。
+","时机不对——主要是因为我就是不想做。
+","我在社交隐身模式，所以我得拒绝任何邀请。
+","我有个慢性病叫“我不想”。
+","我无限期下班。
+","我在进行一个很微妙的“什么都不做”仪式。
+","要不我承诺考虑一下？（我不会，但听起来礼貌。）
+","我有之前的约定：跟我的墙壁瞪眼比赛。
+","我会忙着探索伟大的室内。
+","沙发接纳我为它的一员，我不能背叛它的信任。
+","“不”是新的“好”——我只是在跟潮流。
+","我是我的沙发应得的英雄，所以我得跟它在一起。
+","我做那个的概率跟不买彩票中彩票差不多。
+","那不在我的愿望清单上；其实，它在我的丢弃清单上。
+","请原谅我，我的大脑目前坏了。
+","如果有避免参与的奖，我会是领跑者。
+","我因过分冷漠而拒绝。
+","我的命运在别处——具体来说，在我的沙发上。
+","没人能轻易让我说“好”。
+","这是我的一票“不”，伙计。
+","如果我说“好”，我就得停止抱怨忙碌，我不能这样。
+","我的能量是太阳能的，现在是晚上。
+","我通过不加入这个努力为团队承担一个。
+","我在拖延上放了“专业”，我不会毁了我的连胜。
+","连我的影子都决定待在家，所以我也一样。
+","幸好，我有拖延保险。这类情况它覆盖我。
+","不是我的马戏团，不是我的猴子——所以绝对不是我的表演。
+","我没有足够的魔法值做那个任务。
+","灵魂愿意，但肉体已经点了外卖并安顿好。
+","我做那个的意志在维修店。
+","我可以列1000个为什么说“不”的理由，但我饶了你。
+","我现在拒绝，以免以后拒绝。
+","我选择自己而不是这个承诺——所以，不。
+","我饶你一个半心的“好”，给你一个诚实的“不”。
+","如果我的人生是部电影，这是我说“不”然后片尾字幕的部分。
+","我在把那个想法的门关上（字面和比喻上）。
+","我的直觉大声尖叫“不”，我得相应回答。
+","“不”是我的快乐之地。
+","你寻求的答案现在不可用（永远别再试）。
+","引用一个著名的回应：“不。”
+","我在行使说“不”的权利。
+","把它看作战略否决。
+","我从没对任何事像对说“不”这么确定。
+","我今天醒来决定这是个“不”日。
+","今天，我只说否定。
+","我在执行零承诺的使命。
+","连我的FitBit都告诉我待着别动。
+","我选择Netflix而不是压力，抱歉。
+","不，以最真挚、幽默的方式。
+","我的日历在罢工。
+","我在帮大家忙，专注于我擅长的：说“不”。
+","“不”是我的自我关怀例程的一部分。
+","这是个无愧的“不”。
+","如果我帮了，我会抢走你自己做的机会。
+","我的日程在飞行模式。
+","我不是在幽灵般忽略你；我在给你一个坚定的“不”。
+","我对说“不”感到平静。
+","否定。句号。
+","我必须不惜一切保护我的理智——所以不。
+","啊，我必须拒绝。
+","拒绝这个请求在我心中点燃了快乐。
+","我可以被说服，但最后我可能还是会说“不”。
+","我对做那个有哲学上的反对。
+","如果我再冷漠，我会变成雕像。
+","我得优先考虑我的优先事项，目前是睡觉和吃零食。
+","我的日程有内置的“不行”功能。
+","说“好”会打破我个人宇宙的物理定律。
+","此时此刻，说“好”感觉就不对。
+","我答应自己这周坚持不帮忙。
+","我的懒惰正盛开，我不能为这个连根拔起。
+","我对义务过敏，会爆发借口。
+","我会谢绝，让业力奖励我的诚实。
+","不能做——用最礼貌的方式说（还是不）。
+","把我的“不”看作自我关怀的行为。
+","我在行使选择自由，我选择“不”。
+","我在努力什么都不做。
+","我会帮忙，但那会违背我的人生使命声明。
+","不，但我欣赏你的乐观。
+","我有回避的黑带，我不想浪费它（所以，不）。
+","我在“不”证人保护计划中（我说“不”然后藏起来）。
+","我得待在家确保重力继续工作。（总得有人做。）
+","如果我去，谁来守堡？（堡是我的沙发）。
+","我在进行人生审计，不必要的承诺没通过。
+","拒绝这个其实是我五年计划的一部分。
+","想象一个我的日程和你的请求的维恩图——它们不重叠。
+","我的大脑开了太多标签，没一个是关于那个任务的。
+","我忙着内省（代号什么都不做）。
+","我有个不做清单，这个排在最上面。
+","我在低成就上超负荷。
+","这个请求超出了我的情感薪资等级。
+","我的热情申请了破产，所以我不能投资那个。
+","我的日历全是留给自我时间的空白。
+","我不是忽略你——我在给你一个坚定的“不”。
+","如果我再多接一件事，我会正式成为警示故事。
+","把我的拒绝看作处理拒绝的免费课程。
+","我钦佩你问的坚持，但还是“不”。
+","我已经在什么都不做的快车道上，不能为那个慢下来。
+","我不能去；我忙得不忙。
+","如果我帮你，我会觉得有义务帮别人，那是条我避免的滑坡。
+","宇宙告诉我“善待自己”，我认为这是待在家的信号。
+","从没人说我太乐于助人，我也不打算现在开始。
+","我害怕改变，所以我坚持说“不”。
+","我的生活像个积木塔；再多一件事可能会倒。
+","我没有带宽（或任何宽度）给那个。
+","人生短暂，我的午睡清单很长。
+","坦白说，亲爱的，我一点也不在乎（做那个）。
+","我试着从你的角度看，但还是得说“不”。
+","时机不对——主要是因为我就是不想做。
+","我在社交隐身模式，所以我得拒绝任何邀请。
+","我有个慢性病叫“我不想”。
+","我无限期下班。
+","我在进行一个很微妙的“什么都不做”仪式。
+","要不我承诺考虑一下？（我不会，但听起来礼貌。）
+","我有之前的约定：跟我的墙壁瞪眼比赛。
+","我会忙着探索伟大的室内。
+","沙发接纳我为它的一员，我不能背叛它的信任。
+","“不”是新的“好”——我只是在跟潮流。
+","我是我的沙发应得的英雄，所以我得跟它在一起。
+","我做那个的概率跟不买彩票中彩票差不多。
+","那不在我的愿望清单上；其实，它在我的丢弃清单上。
+","请原谅我，我的大脑目前坏了。
+","如果有避免参与的奖，我会是领跑者。
+","我因过分冷漠而拒绝。
+","我的命运在别处——具体来说，在我的沙发上。
+"," 假装我给了你一个聪明的借口，接受隐含的“不”吧。"
 ]

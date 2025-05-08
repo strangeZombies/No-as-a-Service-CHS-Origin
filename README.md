@@ -43,8 +43,8 @@ GET /no
 
 ### 1. 克隆仓库
 ```bash
-git clone https://github.com/hotheadhacker/no-as-a-service.git
-cd no-as-a-service
+git clone https://github.com/strangeZombies/No-as-a-Service-CHS-Origin.git
+cd no-as-a-service-chs-origin
 ```
 
 ### 2. 安装依赖
